@@ -71,7 +71,6 @@ typings/
 
 # gatsby files
 .cache/
-public
 
 # vue-cli
 dist/
