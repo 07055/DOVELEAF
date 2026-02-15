@@ -28,7 +28,7 @@ const About = () => {
                             </p>
                         </div>
                         <div style={{ borderRadius: '15px', overflow: 'hidden', boxShadow: '0 15px 30px rgba(0,0,0,0.1)' }}>
-                            <img src="/images/WhatsApp Image 2026-02-14 at 13.09.11.jpeg" alt="Our Professional Team" style={{ width: '100%', display: 'block' }} />
+                            <img src="/images/free delivery.jpg" alt="Free Pickup & Delivery" style={{ width: '100%', display: 'block' }} />
                         </div>
                     </div>
                 </div>
