@@ -1,10 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 import { ShieldCheck, Clock, Zap } from 'lucide-react';
 
 const Home = () => {
     return (
         <div className="home-page">
+            <Helmet>
+                <title>Doveleaf Drycleaners & Laundry Hub | Lang'ata, Nairobi — Premium Dry Cleaning & Laundry Services</title>
+                <meta name="description" content="Doveleaf Drycleaners & Laundry Hub in Lang'ata, Nairobi offers professional dry cleaning, laundry, carpet cleaning, curtain cleaning, and free pickup & delivery. Outstanding quality and timely service at your convenience." />
+                <link rel="canonical" href="https://doveleaf.co.ke/" />
+            </Helmet>
             {/* Hero Section */}
             <section style={{
                 background: 'linear-gradient(rgba(0,0,128,0.8), rgba(0,0,128,0.8)), url("/images/hero section.jpg")',

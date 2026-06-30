@@ -1,9 +1,15 @@
 import React from 'react';
+import { Helmet } from 'react-helmet-async';
 import { Target, Eye, Award } from 'lucide-react';
 
 const About = () => {
     return (
         <div className="about-page">
+            <Helmet>
+                <title>About Us | Doveleaf Drycleaners & Laundry Hub — Lang'ata, Nairobi</title>
+                <meta name="description" content="Learn about Doveleaf Drycleaners & Laundry Hub in Lang'ata, Nairobi. A seasoned team dedicated to quality laundry and dry cleaning solutions for individuals and institutions across Nairobi." />
+                <link rel="canonical" href="https://doveleaf.co.ke/about" />
+            </Helmet>
             <section style={{ backgroundColor: 'var(--primary)', padding: '5rem 0', color: 'white', textAlign: 'center' }}>
                 <div className="container">
                     <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>About Us</h1>
