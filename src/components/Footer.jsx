@@ -40,8 +40,8 @@ const Footer = () => {
                             <li style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-start' }}>
                                 <Mail size={18} color="var(--primary)" style={{ marginTop: '2px' }} />
                                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.3rem' }}>
-                                    <a href="mailto:info@doveleafdrycleaners.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>info@doveleafdrycleaners.co.ke</a>
-                                    <a href="mailto:hr@doveleafdrycleaners.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>hr@doveleafdrycleaners.co.ke</a>
+                                    <a href="mailto:info.contact@doveleaf.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>info.contact@doveleaf.co.ke</a>
+                                    <a href="mailto:hr@doveleaf.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>hr@doveleaf.co.ke</a>
                                     <a href="mailto:joe@doveleaf.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>joe@doveleaf.co.ke</a>
                                 </div>
                             </li>

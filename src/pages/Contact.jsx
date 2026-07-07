@@ -8,7 +8,7 @@ const Contact = () => {
         <div className="contact-page">
             <Helmet>
                 <title>Contact Us | Doveleaf Drycleaners & Laundry Hub — Lang'ata, Nairobi</title>
-                <meta name="description" content="Contact Doveleaf Drycleaners & Laundry Hub in Lang'ata, Nairobi. Located in Uhuru Gardens Phase 2. Call +254 713 322 228 or email info@doveleafdrycleaners.co.ke for free pickup & delivery." />
+                <meta name="description" content="Contact Doveleaf Drycleaners & Laundry Hub in Lang'ata, Nairobi. Located in Uhuru Gardens Phase 2. Call +254 713 322 228 or email info.contact@doveleaf.co.ke for free pickup & delivery." />
                 <link rel="canonical" href="https://doveleaf.co.ke/contact" />
             </Helmet>
             <section style={{ backgroundColor: 'var(--primary)', padding: '5rem 0', color: 'white', textAlign: 'center' }}>
@@ -52,7 +52,7 @@ const Contact = () => {
                                     <div>
                                         <h4 style={{ marginBottom: '0.3rem' }}>Email Address</h4>
                                         <p style={{ color: '#666' }}>
-                                            <a href="mailto:info@doveleafdrycleaners.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>info@doveleafdrycleaners.co.ke</a>
+                                            <a href="mailto:info.contact@doveleaf.co.ke" style={{ color: 'inherit', textDecoration: 'none' }}>info.contact@doveleaf.co.ke</a>
                                         </p>
                                     </div>
                                 </div>
@@ -76,11 +76,11 @@ const Contact = () => {
                             <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
                                 <div style={{ borderBottom: '1px solid #eee', paddingBottom: '1rem' }}>
                                     <h4 style={{ color: 'var(--primary)', marginBottom: '0.5rem', fontSize: '1rem' }}>General Inquiries</h4>
-                                    <a href="mailto:info@doveleafdrycleaners.co.ke" style={{ color: 'var(--primary)', textDecoration: 'none', fontWeight: 'bold', fontSize: '1.1rem' }}>info@doveleafdrycleaners.co.ke</a>
+                                    <a href="mailto:info.contact@doveleaf.co.ke" style={{ color: 'var(--primary)', textDecoration: 'none', fontWeight: 'bold', fontSize: '1.1rem' }}>info.contact@doveleaf.co.ke</a>
                                 </div>
                                 <div style={{ borderBottom: '1px solid #eee', paddingBottom: '1rem' }}>
                                     <h4 style={{ color: 'var(--primary)', marginBottom: '0.5rem', fontSize: '1rem' }}>Human Resources</h4>
-                                    <a href="mailto:hr@doveleafdrycleaners.co.ke" style={{ color: 'var(--primary)', textDecoration: 'none', fontWeight: 'bold', fontSize: '1.1rem' }}>hr@doveleafdrycleaners.co.ke</a>
+                                    <a href="mailto:hr@doveleaf.co.ke" style={{ color: 'var(--primary)', textDecoration: 'none', fontWeight: 'bold', fontSize: '1.1rem' }}>hr@doveleaf.co.ke</a>
                                 </div>
                                 <div>
                                     <h4 style={{ color: 'var(--primary)', marginBottom: '0.5rem', fontSize: '1rem' }}>Management</h4>
