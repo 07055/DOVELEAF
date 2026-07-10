@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Menu, X, Droplets } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -16,11 +16,11 @@ const Navbar = () => {
             boxShadow: '0 2px 10px rgba(0,0,0,0.1)'
         }}>
             <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                <Link to="/" style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', fontWeight: 'bold' }}>
+                <Link to="/" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none' }}>
                     <img
-                        src="/images/WhatsApp Image 2026-02-14 at 13.51.19.jpeg"
-                        alt="Doveleaf Logo"
-                        style={{ height: '45px', borderRadius: '4px' }}
+                        src="/doveleaf-logo.svg"
+                        alt="Doveleaf Drycleaners — Outstanding Quality & Timely Services"
+                        style={{ height: '70px' }}
                     />
                 </Link>
 

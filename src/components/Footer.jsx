@@ -1,5 +1,5 @@
 import React from 'react';
-import { Phone, Mail, MapPin, Droplets } from 'lucide-react';
+import { Phone, Mail, MapPin } from 'lucide-react';
 
 const Footer = () => {
     return (
@@ -7,10 +7,7 @@ const Footer = () => {
             <div className="container">
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '2rem' }}>
                     <div>
-                        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--primary)', fontWeight: 'bold', fontSize: '1.2rem', marginBottom: '1rem' }}>
-                            <Droplets size={24} />
-                            <span>DOVELEAF DRYCLEANERS</span>
-                        </div>
+                        <img src="/doveleaf-logo.svg" alt="Doveleaf Drycleaners" style={{ height: '60px', marginBottom: '1rem' }} />
                         <p style={{ color: '#666', fontSize: '0.9rem' }}>
                             Outstanding quality and timely services at your convenience. Your trusted partner for professional garment care.
                         </p>
