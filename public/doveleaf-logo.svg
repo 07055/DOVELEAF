@@ -4,7 +4,7 @@
   <!-- Dove head -->
   <circle cx="77" cy="38" r="11" fill="#ffffff"/>
   <!-- Dove beak -->
-  <polygon points="88,38 97,36 88,33" fill="#FFD700"/>
+  <polygon points="88,38 97,36 88,33" fill="#ffffff"/>
   <!-- Dove eye -->
   <circle cx="80" cy="36" r="2" fill="#000080"/>
   <!-- Dove wing -->
@@ -13,14 +13,14 @@
   <!-- Dove tail -->
   <path d="M34,48 Q20,43 18,55 Q30,49 34,48Z" fill="#e0e8f5"/>
   <!-- Leaf on dove -->
-  <path d="M60,40 Q67,30 76,33 Q69,37 60,40Z" fill="#2ecc71"/>
-  <line x1="60" y1="40" x2="74" y2="34" stroke="#27ae60" stroke-width="0.7"/>
+  <path d="M60,40 Q67,30 76,33 Q69,37 60,40Z" fill="#ffffff"/>
+  <line x1="60" y1="40" x2="74" y2="34" stroke="#ffffff" stroke-width="0.7"/>
 
   <!-- Brand name -->
   <text x="115" y="50" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#ffffff" letter-spacing="3">DOVELEAF</text>
-  <text x="115" y="72" font-family="Georgia, serif" font-size="18" fill="#FFD700" letter-spacing="6">DRYCLEANERS</text>
+  <text x="115" y="72" font-family="Georgia, serif" font-size="18" fill="#ffffff" letter-spacing="6">DRYCLEANERS</text>
 
   <!-- Tagline -->
-  <line x1="115" y1="82" x2="410" y2="82" stroke="#FFD700" stroke-width="0.6" opacity="0.5"/>
+  <line x1="115" y1="82" x2="410" y2="82" stroke="#ffffff" stroke-width="0.6" opacity="0.5"/>
   <text x="115" y="102" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.85" letter-spacing="1">Outstanding Quality &amp; Timely Services</text>
 </svg>
