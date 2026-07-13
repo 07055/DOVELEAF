@@ -8,11 +8,9 @@ author: "Garment Care Team"
 readingTime: "6 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, deodorant marks are the most common garment complaint we receive. They appear as white chalky residue, yellow discolouration, or stiff patches in the underarm area — and they are one of the few stain types that worsen with every wash cycle if not treated correctly. Each time you machine-wash a garment with set deodorant residue, the heat and mechanical action bake the residue further into the fibres, making it progressively harder to remove.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove deodorant and antiperspirant marks from clothes — the dry rubbing technique, the baking soda pre-wash paste, and the aluminium-free prevention strategy that eliminates white marks, yellow stains, and stiff patches.
 
-The root cause is the chemistry of antiperspirants. Most antiperspirants contain **aluminium salts** — specifically aluminium chlorohydrate or aluminium zirconium — which are designed to dissolve in sweat and form a temporary plug in the sweat duct. When this aluminium-sweat mixture transfers to fabric and is exposed to heat (from your body, from the dryer, or from ironing), it polymerises into an insoluble compound that bonds with fabric fibres. This is the white residue you see.
-
-Understanding this chemistry is the key to both removal and prevention.
+The root cause is the chemistry of antiperspirants. Most antiperspirants contain **aluminium salts** — specifically aluminium chlorohydrate or aluminium zirconium — which are designed to dissolve in sweat and form a temporary plug in the sweat duct. When this aluminium-sweat mixture transfers to fabric and is exposed to heat (from your body, from the dryer, or from ironing), it polymerises into an insoluble compound that bonds with fabric fibres. This is the white residue you see. Understanding this chemistry is the key to both removal and prevention.
 
 ## Why Deodorant Marks Get Worse Over Time
 

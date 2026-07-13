@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "8 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we handle garments bearing every conceivable stain type daily. Over thousands of garments processed, six stain categories consistently dominate our intake counter — and in nearly every case, the customer could have resolved the issue at home with the right product and the right timing. The difference between a stain that lifts in thirty seconds and one that requires professional intervention is almost always **speed and chemistry**, not skill.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove the six most common stains from any fabric — the household product protocols that produce professional-grade results for tea, red soil, sweat, cooking oil, ink, and mould.
 
-This guide covers the six most common stains we treat, with the exact household product protocols that produce professional-grade results.
+The difference between a stain that lifts in thirty seconds and one that requires professional intervention is almost always **speed and chemistry**, not skill.
 
 ## Quick Reference: Stain Removal at a Glance
 

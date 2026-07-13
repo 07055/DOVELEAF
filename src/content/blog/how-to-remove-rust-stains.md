@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "6 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we handle rust stains regularly — especially during the rainy season, when wet metal surfaces, leaking pipes, and corroded fixtures leave orange-brown marks on everything from work shirts to upholstery. Rust stains are among the most stubborn household stains because they are not organic — they are **iron oxide**, a mineral compound that bonds chemically with fabric fibres.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove rust stains from clothes, fabric, and carpet — the lemon juice and cream of tartar method that dissolves iron oxide without chlorine bleach or fabric damage.
 
-The good news is that rust responds to a specific type of chemistry: **acid**. While most stains need surfactants (soap) or oxidants (bleach) to break down, rust needs an acidic solvent that dissolves the iron oxide and releases it from the fibres. The wrong approach — chlorine bleach, for example — will set the stain permanently. The right approach will remove it completely.
+Rust stains are among the most stubborn household stains because they are not organic — they are **iron oxide**, a mineral compound that bonds chemically with fabric fibres. The good news is that rust responds to a specific type of chemistry: **acid**. While most stains need surfactants (soap) or oxidants (bleach) to break down, rust needs an acidic solvent that dissolves the iron oxide and releases it from the fibres. The wrong approach — chlorine bleach, for example — will set the stain permanently. The right approach will remove it completely.
 
 ## Why Chlorine Bleach Makes Rust Worse
 

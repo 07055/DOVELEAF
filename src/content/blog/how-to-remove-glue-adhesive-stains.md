@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, glue stains arrive in our workshop with remarkable regularity — from craft project accidents to school art class disasters to the universal experience of sitting on something adhesive and not realising it until standing up. Glue stains are particularly frustrating because adhesive does not behave like a typical stain. It does not dissolve in water, it does not respond to standard detergent, and it creates a physical bond with fabric fibres that resists conventional washing.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove glue and adhesive stains from clothes and fabrics — the acetone method for super glue, the freezing technique for hot glue, and the peanut butter trick for sticker residue.
 
-The good news is that every type of glue has a specific solvent that dissolves it completely. The key is identifying the glue type and choosing the correct solvent — using the wrong one can spread the adhesive, damage the fabric, or set the stain permanently.
+Glue stains are particularly frustrating because adhesive does not behave like a typical stain. It does not dissolve in water, it does not respond to standard detergent, and it creates a physical bond with fabric fibres that resists conventional washing. The good news is that every type of glue has a specific solvent that dissolves it completely. The key is identifying the glue type and choosing the correct solvent — using the wrong one can spread the adhesive, damage the fabric, or set the stain permanently.
 
 ## Identifying the Glue Type
 

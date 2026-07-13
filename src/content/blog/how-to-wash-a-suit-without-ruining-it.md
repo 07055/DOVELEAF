@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "8 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, suits are among the garments we handle most carefully — and the ones whose owners are most anxious about. A good suit is an investment in professional appearance, and the fear of ruining it in the wash is well-founded. Suits are constructed with internal architecture — canvases, paddings, shoulder pads, and interlinings — that gives them their shape. Aggressive washing or improper drying can collapse this architecture, turning a tailored garment into a shapeless shell.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to wash a suit without ruining the structure — the spot-cleaning, steam-freshening, and occasional full-wash method that maintains suit shape, prevents shoulder distortion, and extends the life of wool, polyester, and blend suits.
 
-The good news is that suits do not need frequent washing. Because they are worn over other clothing and typically for limited hours, they accumulate far less body oil and soil than t-shirts or undergarments. Most suits need full washing only once or twice per year. Between washes, proper maintenance keeps them fresh and presentable.
+Suits are constructed with internal architecture — canvases, paddings, shoulder pads, and interlinings — that gives them their shape. Aggressive washing or improper drying can collapse this architecture, turning a tailored garment into a shapeless shell. The good news is that suits do not need frequent washing. Because they are worn over other clothing and typically for limited hours, they accumulate far less body oil and soil than t-shirts or undergarments. Most suits need full washing only once or twice per year. Between washes, proper maintenance keeps them fresh and presentable.
 
 ## The Maintenance Routine (Between Washes)
 

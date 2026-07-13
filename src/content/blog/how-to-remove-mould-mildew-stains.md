@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, mould and mildew stains are a seasonal constant — particularly during the long rains when humidity spikes and damp garments left in hampers or storage develop visible black, green, or grey spots within days. Mould on clothing is not merely a cosmetic issue. Mould spores are a health hazard — they can trigger allergic reactions, respiratory problems, and skin irritation. More importantly, mould is a **living organism** that actively feeds on and digests fabric fibres. Unlike a coffee stain, which sits on the surface, mould is eating your garment. The longer it stays, the less fabric remains.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove mould and mildew stains from clothes and fabrics — the white vinegar and borax soak method that kills mould spores, removes black mildew marks, and prevents regrowth on cotton, linen, leather, and bathroom upholstery.
 
-Removing mould successfully requires two actions: **killing the organism** and **removing the stain it leaves behind.** Treating the stain without killing the spores will result in regrowth within hours. Killing the spores without removing the stain leaves a permanent discolouration.
+Mould on clothing is not merely a cosmetic issue. Mould spores are a health hazard — they can trigger allergic reactions, respiratory problems, and skin irritation. More importantly, mould is a **living organism** that actively feeds on and digests fabric fibres. Unlike a coffee stain, which sits on the surface, mould is eating your garment. The longer it stays, the less fabric remains. Removing mould successfully requires two actions: **killing the organism** and **removing the stain it leaves behind.** Treating the stain without killing the spores will result in regrowth within hours. Killing the spores without removing the stain leaves a permanent discolouration.
 
 ## Why Mould Grows on Fabric
 

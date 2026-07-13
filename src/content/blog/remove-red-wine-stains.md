@@ -1,16 +1,14 @@
 ---
-title: "How to Remove Red Wine Stains From Any Fabric: A Professional Guide"
+title: "How to Get Red Wine Stains Out of Fine Fabrics and Carpet"
 date: "2025-06-20"
 dateModified: "2025-06-20"
-excerpt: "A professional garment care facility in Nairobi shares the salt absorption technique, club soda method, and white wine counter-treatment that remove red wine from cotton, silk, wool, and carpet upholstery without setting the stain."
+excerpt: "A professional garment care facility in Nairobi shares the salt absorption technique, club soda method, and white wine counter-treatment that remove red wine from cotton, silk, wool, and upholstery without setting the stain."
 coverImage: "/images/special fabric.jpg"
 author: "Garment Care Team"
-readingTime: "7 min read"
+readingTime: "8 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we have seen every possible red wine disaster — from a full glass spilled across a white tablecloth at a dinner party to a small splash on a silk evening gown that arrived in a panic at our door the next morning. Red wine stains are dramatic, but they are not hopeless. In fact, with the right technique applied quickly, red wine is one of the more removable stains in garment care.
-
-Here is the exact, universal framework we use to eliminate red wine stains from every fabric type — including the one technique that professional cleaners consider the most reliable of all.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove red wine stains from every fabric type — including the one technique that professional cleaners consider the most reliable of all. Red wine stains are dramatic, but they are not hopeless. In fact, with the right technique applied quickly, red wine is one of the more removable stains in garment care.
 
 ## Why Red Wine Stains So Effectively
 
@@ -65,7 +63,7 @@ If the wine has dried — perhaps you did not notice the spill until the next mo
 
 ### The Oxygen Bleach Soak
 
-1. Fill a basin with **warm water** (warm, not hot — 40°C / 104°F is ideal).
+1. Fill a basin with **warm water** (warm, not hot — 40 degrees Celsius / 104 degrees Fahrenheit is ideal).
 2. Add **one cup of oxygen-based bleach** (sodium percarbonate powder) per gallon of water. Stir to dissolve.
 3. Submerge the stained garment and soak for **two to six hours**. Overnight yields the best results for old stains.
 4. After soaking, gently agitate the garment in the solution. You should see the water turning slightly purple as the dissolved pigment releases.
@@ -77,7 +75,7 @@ Oxygen bleach is colour-safe and fabric-safe — it uses hydrogen peroxide in a 
 
 Do not use oxygen bleach on silk or wool. Instead:
 
-1. Mix a solution of **cold water and white vinegar** (one part vinegar to two parts water).
+1. Mix a solution of **cold water and distilled white vinegar** (one part vinegar to two parts water).
 2. Submerge the stained area and soak for thirty minutes.
 3. Blot with a clean cloth.
 4. Rinse with cold water.
@@ -106,7 +104,7 @@ Wool absorbs wine deeply due to its porous fibre structure. The vinegar soak met
 
 For wine on carpet or sofa upholstery:
 
-1. Blot immediately — do not rub.
+1. **Blot immediately** — do not rub.
 2. Apply salt and leave for fifteen minutes.
 3. Vacuum or brush off the salt.
 4. Mix a solution of **one tablespoon dish soap, one tablespoon white vinegar, and two cups warm water**.

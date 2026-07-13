@@ -8,11 +8,9 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, down jackets are a growing category in our workshop. As Nairobi residents discover the lightweight warmth of down-filled outerwear for trips to colder climates, or for Nairobi's cooler highland excursions, a question inevitably arises: how do you wash something filled with feathers without ruining it?
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to wash and dry down jackets without losing loft — the tennis ball tumble-dry technique, the front-loader machine wash method, and the clump-fixing routine that restores down jacket loft after washing.
 
-Down jackets are uniquely vulnerable to washing because their insulation depends on the **loft** — the ability of the down clusters to trap air and create warmth. When down gets wet, the clusters clump together and lose their loft. If dried improperly, the down remains clumped permanently, and the jacket becomes a flat, cold shell with lumpy patches.
-
-The key to washing a down jacket is understanding that the clumping is temporary and reversible — provided you dry the jacket correctly. With the right technique, your down jacket will emerge from washing with full, fluffy loft.
+Down jackets are uniquely vulnerable to washing because their insulation depends on the **loft** — the ability of the down clusters to trap air and create warmth. When down gets wet, the clusters clump together and lose their loft. If dried improperly, the down remains clumped permanently, and the jacket becomes a flat, cold shell with lumpy patches. The key to washing a down jacket is understanding that the clumping is temporary and reversible — provided you dry the jacket correctly. With the right technique, your down jacket will emerge from washing with full, fluffy loft.
 
 ## The Pre-Wash Preparation
 

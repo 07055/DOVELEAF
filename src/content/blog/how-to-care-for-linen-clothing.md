@@ -8,7 +8,7 @@ author: "Garment Care Team"
 readingTime: "8 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, linen is one of the most frequently mishandled fabrics we encounter. Customers bring us linen shirts that have shrunk by two sizes, linen trousers that have developed a fuzzy, pilled surface, and linen dresses that have lost their characteristic drape and become stiff. In almost every case, the damage was caused by a misunderstanding of how linen fibres behave in water and under heat.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to wash, dry, iron, and store linen garments without shrinkage, fibre damage, or colour fading — including the cold-water pre-soak that prevents pilling.
 
 Linen is a remarkable fabric — stronger than cotton, naturally resistant to bacteria, and becoming softer and more comfortable with every wash. But it has specific structural properties that demand a specific care approach. Treat linen correctly, and it will outlast almost every other fabric in your wardrobe. Treat it incorrectly, and it will deteriorate rapidly.
 

@@ -8,7 +8,7 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, leather shoe restoration is one of our most requested services. Leather shoes are a significant investment — a quality pair of leather dress shoes or boots can cost as much as a month's rent in some Nairobi neighbourhoods — and the most common reason people seek professional help is that their shoes have become dull, scuffed, dried out, or water-stained through neglect or improper care.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to clean and restore leather shoes to showroom condition — the saddle soap conditioning and cream polish method that removes scuffs, dried patches, and water stains without cracking or colour loss.
 
 The irony is that leather is one of the most durable and long-lasting materials available for footwear. A well-maintained pair of leather shoes can last twenty years or more. The key phrase is "well-maintained" — and maintenance is far simpler than most people believe.
 

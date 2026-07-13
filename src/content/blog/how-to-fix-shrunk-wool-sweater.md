@@ -8,7 +8,7 @@ author: "Garment Care Team"
 readingTime: "8 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics every single day — from Italian cashmere blazers to Japanese raw selvedge denim and hand-woven mulberry silk scarves. Among the most distressing calls we receive is from a customer holding a shrunken wool sweater that now fits a ten-year-old. The good news? In the vast majority of cases, we can restore it. Here is the exact, universal framework we use to unshrink wool, cashmere, and mohair — and the science behind why it works.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to unshrink wool, cashmere, and mohair — the hair conditioner method that actually works, and the science behind why it works.
 
 ## Why Wool Shrinks in the First Place
 

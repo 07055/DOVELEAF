@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we see a predictable pattern every year: customers bring in winter garments with small holes, mysterious threadbare patches, or fibre damage that appeared while the garments were supposedly safely stored. The culprit is almost always the same — **clothes moths** and their larvae, which feed on protein fibres like wool, cashmere, silk, and down while the garments sit undisturbed in wardrobes and storage boxes.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to store winter clothes for the summer without moth damage — the wash-before-store rule, the cedar and lavender protection system, and the breathable storage method that keeps wool, cashmere, and down garments moth-free through the off-season.
 
-The tragedy is that this damage is almost entirely preventable. Moths do not attack clean fibres — they are attracted to **body oils, sweat residue, and food particles** on unwashed garments. A winter coat that is stored without washing is essentially a buffet for moth larvae. A winter coat that is washed before storage is largely invisible to them.
+The culprit behind stored garment damage is almost always **clothes moths** and their larvae, which feed on protein fibres like wool, cashmere, silk, and down while the garments sit undisturbed in wardrobes and storage boxes. Moths do not attack clean fibres — they are attracted to **body oils, sweat residue, and food particles** on unwashed garments. A winter coat that is stored without washing is essentially a buffet for moth larvae. A winter coat that is washed before storage is largely invisible to them.
 
 ## The Golden Rule: Wash Before You Store
 

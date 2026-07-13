@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, ink stains are among the most common garments we receive — and among the most feared by our customers. A pen leaking in a shirt pocket, a toddler with a marker, or an accidental brush against a freshly written page: the results look permanent and devastating. But ink is, at its core, a dye dissolved in a solvent, and with the right counter-solvent, almost every ink stain can be removed.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove ink and marker stains from clothes and fabrics — the isopropyl alcohol method for ballpoint pen, the hand sanitiser shortcut, and the solvent guide for permanent marker.
 
-The critical thing to understand about ink is that different inks require different solvents. There is no single product that dissolves all ink types equally well. Knowing which type of ink you are dealing with — and choosing the correct solvent — is the difference between complete removal and a faded, spread-out mess.
+Ink is, at its core, a dye dissolved in a solvent, and with the right counter-solvent, almost every ink stain can be removed. The critical thing to understand about ink is that different inks require different solvents. There is no single product that dissolves all ink types equally well. Knowing which type of ink you are dealing with — and choosing the correct solvent — is the difference between complete removal and a faded, spread-out mess.
 
 ## Identifying the Ink Type
 

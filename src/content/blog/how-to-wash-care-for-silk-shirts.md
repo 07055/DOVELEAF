@@ -8,7 +8,7 @@ author: "Garment Care Team"
 readingTime: "7 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, silk shirts are among the most treasured — and most feared — garments in our customers' wardrobes. The lustre, the drape, the way silk catches light: these qualities make silk extraordinary to wear and terrifying to wash. A single mistake — hot water, aggressive soap, wringing — can transform a beautiful silk shirt into a stiff, dull, misshapen garment.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to wash and care for silk shirts without damage — the lukewarm hand-wash and vinegar rinse method that preserves silk lustre, prevents water spots, and maintains colour vibrancy.
 
 Silk is a **protein fibre** produced by silkworms. At the molecular level, it is remarkably similar to human hair. This means you can understand silk care by thinking about how you would treat fine, colour-treated hair: gentle cleanser, lukewarm water, minimal agitation, and careful drying. The analogy is not perfect, but it captures the essential principle — silk is a delicate, organic material that rewards gentleness and punishes aggression.
 

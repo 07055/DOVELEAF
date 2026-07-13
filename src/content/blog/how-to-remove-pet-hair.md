@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "6 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, pet hair removal is one of the most frequently requested services — not because it is technically difficult, but because pet owners are often unaware of how simple the right technique is. Cat hair and dog fur are structurally different from human hair: they are finer, have a different cuticle texture, and carry a static charge that causes them to cling tenaciously to fabric fibres. Pulling at them with your hands is futile — the static bond is stronger than your grip.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove pet hair from clothes, furniture, and car upholstery — the rubber glove method, the lint roller alternative, and the anti-static spray technique that works on cotton, wool, upholstery, and car seats without specialised equipment.
 
-The key to effective pet hair removal is **breaking the static bond first**, then using a mechanical method to lift the released hair. Once you understand this principle, pet hair becomes a straightforward problem with straightforward solutions.
+Cat hair and dog fur are structurally different from human hair: they are finer, have a different cuticle texture, and carry a static charge that causes them to cling tenaciously to fabric fibres. Pulling at them with your hands is futile — the static bond is stronger than your grip. The key to effective pet hair removal is **breaking the static bond first**, then using a mechanical method to lift the released hair. Once you understand this principle, pet hair becomes a straightforward problem with straightforward solutions.
 
 ## Why Pet Hair Clings
 

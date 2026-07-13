@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "9 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we see the same pattern every week: customers arrive with garments that looked beautiful when purchased but now appear tired, faded, and worn — after just a few months of home washing. A quality suit that lost its shape. A silk blouse that turned dull. A favourite jacket that pilled beyond recognition. In nearly every case, the damage was caused by the same thing: home washing with water-based detergent on garments that required solvent-based cleaning.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to explain why solvent-based cleaning outperforms home washing for suit structure preservation, colour retention, stain removal, and fabric longevity — with the cost-per-wear math that proves professional care is the economical choice.
 
-Professional dry cleaning is not a luxury reserved for corporate executives. It is the single most effective way to protect your investment in quality clothing. Here is the detailed, evidence-based explanation of why professional garment care produces results that home washing cannot match.
+Professional dry cleaning is not a luxury reserved for corporate executives. It is the single most effective way to protect your investment in quality clothing.
 
 ## 1. Embedded Particulate Matter: The Invisible Threat
 

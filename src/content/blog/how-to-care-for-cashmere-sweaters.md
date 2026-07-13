@@ -8,7 +8,7 @@ author: "Garment Care Team"
 readingTime: "8 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, cashmere is the fabric that generates the most anxiety from customers. A single cashmere sweater can cost several months of a garment care budget, and the fear of ruining it during washing is entirely rational. We receive cashmere items that have been worn for years without ever being washed — the owners terrified of causing damage — and we receive cashmere items that have been ruined by a single machine wash cycle.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to wash and store cashmere sweaters without damage — the flat-dry method, the cedar storage system, and the hand-wash technique that keeps cashmere soft for decades without pilling or shrinkage.
 
 The truth is that washing cashmere is straightforward once you understand one principle: cashmere is a **protein fibre** — the same molecular category as human hair. You wash cashmere the way you would wash a fine wool sweater or even your own hair: gently, with minimal agitation, in lukewarm water, with a pH-neutral cleanser. That is it. No special equipment required.
 

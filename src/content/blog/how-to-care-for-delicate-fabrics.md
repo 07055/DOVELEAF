@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "10 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily — silk blouses that arrived stiff from improper washing, leather jackets that developed mould during the rainy season, and wedding gowns that yellowed in storage because they were kept in plastic bags. These are not rare disasters. They are weekly occurrences, and almost all of them could have been prevented with proper care between professional cleanings.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to care for silk, leather, suede, and wedding gowns between professional cleanings — with the storage rules that prevent mould, cracking, and yellowing in any climate.
 
-This guide covers the four most common delicate fabric categories we handle, with specific, practical advice for maintaining them in any climate.
+This guide covers the four most common delicate fabric categories we handle, with specific, practical advice for maintaining them.
 
 ## Quick Reference: Delicate Fabric Care
 

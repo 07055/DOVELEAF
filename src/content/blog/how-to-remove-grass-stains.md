@@ -8,7 +8,7 @@ author: "Garment Care Team"
 readingTime: "6 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, grass stains are a near-daily occurrence during school terms and the dry season when children play outdoors on grass fields and sports grounds. Parents arrive with uniforms, play clothes, and football kits bearing vivid green streaks on knees, elbows, and thighs — convinced the stains are permanent. They are not.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove grass stains from clothes and shoes — the rubbing alcohol and dish soap method that dissolves chlorophyll-based stains from cotton, denim, polyester, and children's play clothes without fading or fibre damage.
 
 Grass stains look dramatic, but they are chemically simpler than most people assume. The green colour is **chlorophyll** — the same pigment that makes leaves green. Chlorophyll is an organic, oil-soluble compound, which means it responds to the same solvents that dissolve oil and grease. The key is to use the right solvent at the right concentration, applied before the stain has time to fully polymerise in the fabric.
 

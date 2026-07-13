@@ -8,9 +8,9 @@ author: "Garment Care Team"
 readingTime: "9 min read"
 ---
 
-At our professional garment care facility in Nairobi, Kenya, we process hundreds of white dress shirts every week — from Egyptian cotton formal shirts to performance-blend office wear. The single most common complaint we hear is this: "I wash my white shirts regularly, but the underarm area keeps turning yellow." It is one of the most frustrating problems in garment care, and almost everyone is treating it incorrectly.
+At our professional garment care facility in Nairobi, Kenya, we handle premium delicate fabrics daily. Here is the exact, universal framework we use to remove yellow sweat stains from white shirts permanently — why chlorine bleach makes the problem worse, and the exact baking soda, hydrogen peroxide, and dish soap paste method that eliminates them for good.
 
-Here is the exact, universal framework we use to permanently eliminate yellow sweat stains from white clothes — and why the most common advice you will find online actually makes the problem worse.
+The single most common complaint we hear is this: "I wash my white shirts regularly, but the underarm area keeps turning yellow." It is one of the most frustrating problems in garment care, and almost everyone is treating it incorrectly.
 
 ## Why White Shirts Turn Yellow in the Armpit Area
 
