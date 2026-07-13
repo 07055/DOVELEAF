@@ -8,7 +8,7 @@ import { getPostBySlug } from '../utils/blogUtils';
 import AdSenseUnit from '../components/AdSenseUnit';
 import AuthorBio from '../components/AuthorBio';
 
-const AD_CLIENT = 'ca-pub-XXXXXXXXXXXXXXXX';
+const AD_CLIENT = 'ca-pub-9132897909170105';
 const AD_SLOT_HEADER = '0000000000';
 const AD_SLOT_FOOTER = '0000000001';
 
