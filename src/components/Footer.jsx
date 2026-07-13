@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Phone, Mail, MapPin } from 'lucide-react';
 
 const Footer = () => {
@@ -16,11 +17,11 @@ const Footer = () => {
                     <div>
                         <h4 style={{ color: 'var(--primary)', marginBottom: '1.2rem' }}>Quick Links</h4>
                         <ul style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem', fontSize: '0.9rem' }}>
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/about">About Us</a></li>
-                            <li><a href="/services">Services</a></li>
-                            <li><a href="/contact">Contact</a></li>
-                            <li><a href="/blog">Blog</a></li>
+                            <li><Link to="/">Home</Link></li>
+                            <li><Link to="/about">About Us</Link></li>
+                            <li><Link to="/services">Services</Link></li>
+                            <li><Link to="/contact">Contact</Link></li>
+                            <li><Link to="/blog">Blog</Link></li>
                         </ul>
                     </div>
 
