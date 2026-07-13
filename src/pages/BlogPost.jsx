@@ -47,7 +47,7 @@ const BlogPost = () => {
 
     const formatDate = (dateString) => {
         const options = { year: 'numeric', month: 'long', day: 'numeric' };
-        return new Date(dateString).toLocaleDateString('en-KE', options);
+        return new Date(dateString).toLocaleDateString('en-US', options);
     };
 
     const articleUrl = `${SITE_URL}/blog/${post.slug}`;

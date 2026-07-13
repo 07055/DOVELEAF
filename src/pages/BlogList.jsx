@@ -9,14 +9,14 @@ const BlogList = () => {
 
     const formatDate = (dateString) => {
         const options = { year: 'numeric', month: 'long', day: 'numeric' };
-        return new Date(dateString).toLocaleDateString('en-KE', options);
+        return new Date(dateString).toLocaleDateString('en-US', options);
     };
 
     return (
         <div className="blog-page">
             <Helmet>
                 <title>Blog | Doveleaf Drycleaners — Expert Garment Care Tips & Advice</title>
-                <meta name="description" content="Read expert tips on stain removal, fabric care, dry cleaning, and laundry from the professional garment care team at Doveleaf Drycleaners in Nairobi." />
+                <meta name="description" content="Read expert tips on stain removal, fabric care, dry cleaning, and laundry from the professional garment care team at Doveleaf Drycleaners. Practical guides for every fabric type." />
                 <link rel="canonical" href="https://doveleaf.co.ke/blog" />
                 <meta property="og:title" content="Blog | Doveleaf Drycleaners" />
                 <meta property="og:description" content="Expert tips on stain removal, fabric care, and professional garment care." />
