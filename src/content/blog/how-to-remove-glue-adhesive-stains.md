@@ -3,7 +3,7 @@ title: "How to Remove Glue and Adhesive Stains From Clothes and Fabrics"
 date: "2025-05-10"
 dateModified: "2025-05-10"
 excerpt: "A professional garment care facility in Nairobi shares the acetone-free nail polish remover method for super glue, the freezing technique for hot glue, and the peanut butter trick for sticker residue that dissolve adhesive without damaging cotton, polyester, or delicate fabrics."
-coverImage: "/images/steam.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---

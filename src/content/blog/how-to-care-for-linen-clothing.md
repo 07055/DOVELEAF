@@ -3,7 +3,7 @@ title: "The Complete Guide to Washing and Caring for Linen Clothing"
 date: "2025-06-10"
 dateModified: "2025-06-10"
 excerpt: "A professional garment care facility in Nairobi shares how to wash, dry, iron, and store linen garments without shrinkage, fibre damage, or colour fading — including the cold-water pre-soak that prevents pilling."
-coverImage: "/images/special fabric.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---

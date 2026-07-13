@@ -3,7 +3,7 @@ title: "The Capsule Wardrobe Guide: Fewer Clothes, Better Care"
 date: "2025-05-08"
 dateModified: "2025-05-08"
 excerpt: "A professional garment care facility in Nairobi explains how a 30-piece capsule wardrobe reduces laundry frequency, extends garment lifespan, and simplifies fabric care — with the exact maintenance schedule that keeps every piece in rotation for years."
-coverImage: "/images/garment-care-04.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "9 min read"
 ---

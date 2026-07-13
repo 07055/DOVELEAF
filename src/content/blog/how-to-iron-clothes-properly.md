@@ -3,7 +3,7 @@ title: "How to Iron Clothes Properly: A Complete Temperature and Technique Guide
 date: "2025-05-20"
 dateModified: "2025-05-20"
 excerpt: "A professional garment care facility in Nairobi shares the exact temperature settings for every fabric type, the pressing cloth technique that prevents shine marks, and the sequence for ironing a dress shirt in under five minutes."
-coverImage: "/images/garment-care-01.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---

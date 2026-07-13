@@ -3,7 +3,7 @@ title: "How to Wash and Care for Silk Shirts Without Damage"
 date: "2025-05-28"
 dateModified: "2025-05-28"
 excerpt: "A professional garment care facility in Nairobi shares the exact lukewarm hand-wash and vinegar rinse method that preserves silk lustre, prevents water spots, and maintains colour vibrancy on silk shirts, blouses, and ties."
-coverImage: "/images/service-bg.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---

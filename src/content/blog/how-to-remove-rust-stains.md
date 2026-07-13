@@ -3,7 +3,7 @@ title: "How to Remove Rust Stains From Clothes, Fabric, and Carpet"
 date: "2025-06-15"
 dateModified: "2025-06-15"
 excerpt: "A professional garment care facility in Nairobi shares the lemon juice and cream of tartar method that dissolves iron oxide rust stains from white cotton, coloured fabrics, and upholstery without chlorine bleach or fabric damage."
-coverImage: "/images/garment-care-06.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---

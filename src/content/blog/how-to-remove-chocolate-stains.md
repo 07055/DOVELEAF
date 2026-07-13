@@ -3,7 +3,7 @@ title: "How to Remove Chocolate Stains From Clothes, Upholstery, and Carpet"
 date: "2025-06-12"
 dateModified: "2025-06-12"
 excerpt: "A professional garment care facility in Nairobi shares the scraping-and-cold-water method that lifts fresh and dried chocolate from cotton, silk, wool, and upholstery, including the baking soda paste that dissolves set-in cocoa butter residue."
-coverImage: "/images/service-bg.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---

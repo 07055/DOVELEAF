@@ -3,7 +3,7 @@ title: "How to Remove Ink and Marker Stains From Clothes and Fabrics"
 date: "2025-06-18"
 dateModified: "2025-06-18"
 excerpt: "A professional garment care facility in Nairobi shares the exact isopropyl alcohol and hand sanitiser methods that dissolve ballpoint pen, permanent marker, and fountain pen ink from cotton, polyester, and delicate fabrics without spreading."
-coverImage: "/images/steam.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---

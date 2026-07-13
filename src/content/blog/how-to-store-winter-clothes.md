@@ -3,7 +3,7 @@ title: "How to Store Winter Clothes for the Summer Without Moth Damage"
 date: "2025-05-25"
 dateModified: "2025-05-25"
 excerpt: "A professional garment care facility in Nairobi shares the wash-before-store rule, the cedar and lavender protection system, and the breathable storage method that keeps wool, cashmere, and down garments moth-free through the off-season."
-coverImage: "/images/steam.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---

@@ -3,7 +3,7 @@ title: "How to Remove Mould and Mildew Stains From Clothes and Fabrics"
 date: "2025-05-18"
 dateModified: "2025-05-18"
 excerpt: "A professional garment care facility in Nairobi shares the white vinegar and borax soak method that kills mould spores, removes black mildew marks, and prevents regrowth on cotton, linen, leather, and bathroom upholstery."
-coverImage: "/images/service-bg.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---

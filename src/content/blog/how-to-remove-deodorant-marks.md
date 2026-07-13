@@ -3,7 +3,7 @@ title: "How to Remove Deodorant and Antiperspirant Marks From Clothes"
 date: "2025-05-15"
 dateModified: "2025-05-15"
 excerpt: "A professional garment care facility in Nairobi shares the dry rubbing technique, the baking soda pre-wash paste, and the aluminium-free prevention strategy that eliminates white marks, yellow stains, and stiff patches from cotton, polyester, and silk."
-coverImage: "/images/garment-care-04.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---

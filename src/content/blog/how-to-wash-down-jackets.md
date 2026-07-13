@@ -3,7 +3,7 @@ title: "How to Wash and Dry Down Jackets Without Losing Loft"
 date: "2025-06-01"
 dateModified: "2025-06-01"
 excerpt: "A professional garment care facility in Nairobi shares the tennis ball tumble-dry technique, the front-loader machine wash method, and the clump-fixing routine that restores down jacket loft after washing — including the Nikwax treatment that maintains water repellency."
-coverImage: "/images/garment-care-06.jpg"
+coverImage: ""
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
