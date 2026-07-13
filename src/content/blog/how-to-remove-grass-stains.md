@@ -3,7 +3,7 @@ title: "How to Remove Grass Stains From Clothes and Shoes"
 date: "2025-05-12"
 dateModified: "2025-05-12"
 excerpt: "A professional garment care facility in Nairobi shares the rubbing alcohol and dish soap method that dissolves chlorophyll-based grass stains from cotton, denim, polyester, and children's play clothes without fading or fibre damage."
-coverImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=1200&auto=format&fit=crop&q=80"
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---
