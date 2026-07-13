@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Helmet } from 'react-helmet-async';
+import GlobalSEO from '../components/GlobalSEO';
 import {
     Shirt, Waves, Weight, Layers, Scroll,
     Armchair, Home as HomeIcon, Scissors,
@@ -243,11 +243,11 @@ const ServiceCard = ({ service }) => {
 const Services = () => {
     return (
         <div className="services-page">
-            <Helmet>
-                <title>Our Services | Doveleaf Drycleaners & Laundry Hub — Lang'ata, Nairobi</title>
-                <meta name="description" content="Explore our full range of professional dry cleaning, laundry, carpet cleaning, curtain cleaning, upholstery cleaning, and commercial laundry services in Lang'ata, Nairobi. Free pickup & delivery available." />
-                <link rel="canonical" href="https://doveleaf.co.ke/services" />
-            </Helmet>
+            <GlobalSEO
+                title="Our Laundry & Dry Cleaning Services | Doveleaf Nairobi"
+                description="Explore 12 professional services including dry cleaning, laundry, carpet cleaning, curtain cleaning, upholstery care, and commercial laundry in Lang'ata, Nairobi. Free pickup and delivery. Same-day express available."
+                path="/services"
+            />
             <section style={{ backgroundColor: 'var(--primary)', padding: '5rem 0', color: 'white', textAlign: 'center' }}>
                 <div className="container">
                     <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Our Services</h1>

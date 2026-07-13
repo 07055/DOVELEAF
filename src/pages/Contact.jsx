@@ -1,16 +1,16 @@
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
+import GlobalSEO from '../components/GlobalSEO';
 import { Phone, Mail, MapPin, Clock, Send } from 'lucide-react';
 
 const Contact = () => {
 
     return (
         <div className="contact-page">
-            <Helmet>
-                <title>Contact Us | Doveleaf Drycleaners & Laundry Hub — Lang'ata, Nairobi</title>
-                <meta name="description" content="Contact Doveleaf Drycleaners & Laundry Hub in Lang'ata, Nairobi. Located in Uhuru Gardens Phase 2. Call +254 713 322 228 or email info.contact@doveleaf.co.ke for free pickup & delivery." />
-                <link rel="canonical" href="https://doveleaf.co.ke/contact" />
-            </Helmet>
+            <GlobalSEO
+                title="Contact Us & Book a Laundry Pickup | Doveleaf Drycleaners"
+                description="Reach Doveleaf Drycleaners in Lang'ata, Nairobi. Call +254 713 322 228 to book a free pickup. Open Mon–Sat, 8 AM–7 PM. Serving Lang'ata, Karen, Westlands, Kilimani, and all of Nairobi."
+                path="/contact"
+            />
             <section style={{ backgroundColor: 'var(--primary)', padding: '5rem 0', color: 'white', textAlign: 'center' }}>
                 <div className="container">
                     <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Contact Us</h1>
