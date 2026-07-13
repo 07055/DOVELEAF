@@ -3,7 +3,7 @@ title: "How to Care for Silk, Leather, and Wedding Gowns: A Professional Guide"
 date: "2025-06-28"
 dateModified: "2025-06-28"
 excerpt: "A professional garment care facility in Nairobi shares the exact hand-wash, conditioning, and preservation methods that protect silk, leather, suede, and wedding gowns between professional cleanings — with the storage rules that prevent mould, cracking, and yellowing."
-coverImage: "/images/special fabric.jpg"
+coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "10 min read"
 ---
@@ -121,6 +121,13 @@ If you spot white or green mould on leather during humid weather:
 - During humid seasons, check stored leather every two weeks for early mould signs
 
 ## 3. Suede Shoes and Accessories
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+
+*Observe the gentle handling technique required for protein-based delicate fibres.*
+
 
 Suede is leather with a napped (fuzzy) finish, popular for shoes, bags, and jackets. The napped surface that gives suede its distinctive look also makes it far more vulnerable to damage than smooth leather.
 

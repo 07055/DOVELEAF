@@ -3,7 +3,7 @@ title: "How to Clean and Restore Leather Shoes: A Complete Professional Guide"
 date: "2025-06-05"
 dateModified: "2025-06-05"
 excerpt: "A professional garment care facility in Nairobi shares the exact saddle soap conditioning and cream polish method that restores scuffed, dried, and stained leather shoes to showroom condition without cracking or colour loss."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
@@ -94,6 +94,13 @@ For a mirror-like shine on the toe cap:
 6. Each layer builds upon the last, creating a deep, reflective shine.
 
 ## Addressing Common Leather Problems
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop)
+
+*Observe the conditioning technique that restores leather flexibility and shine.*
+
 
 ### Water Stains
 

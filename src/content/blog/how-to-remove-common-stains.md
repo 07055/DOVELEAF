@@ -3,7 +3,7 @@ title: "How to Remove the 6 Most Common Stains From Any Fabric"
 date: "2025-07-10"
 dateModified: "2025-07-10"
 excerpt: "A professional garment care facility in Nairobi shares the exact household product protocols that remove tea, red soil, sweat, cooking oil, ink, and mould stains from cotton, linen, silk, and wool before they become permanent."
-coverImage: "/images/hero section.jpg"
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -96,6 +96,13 @@ Each wash cycle deposits a thin layer of aluminium-protein residue that the mach
 If the yellowing persists after two rounds of the above treatment, the aluminium compounds have bonded at a molecular level with the cotton fibres. No amount of home treatment will reverse this. Professional dry cleaning with specialised reducing agents can restore the fabric.
 
 ## 4. Cooking Oil and Grease Stains
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Note the systematic approach to identifying and treating everyday fabric stains.*
+
 
 Cooking oil splatter creates a particularly stubborn mark because the lipids polymerise when they meet heat from a gas stove or hot pan. Whether you are dealing with olive oil, vegetable oil, butter, or animal fat, the chemistry of removal is the same: absorb the oil, then dissolve the residue.
 

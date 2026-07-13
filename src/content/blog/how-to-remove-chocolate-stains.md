@@ -3,7 +3,7 @@ title: "How to Remove Chocolate Stains From Clothes, Upholstery, and Carpet"
 date: "2025-06-12"
 dateModified: "2025-06-12"
 excerpt: "A professional garment care facility in Nairobi shares the scraping-and-cold-water method that lifts fresh and dried chocolate from cotton, silk, wool, and upholstery, including the baking soda paste that dissolves set-in cocoa butter residue."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---
@@ -117,6 +117,13 @@ The chocolate removal method is safe for denim, but rinse with **cold water only
 For stubborn carpet stains, apply the **baking soda absorption method** before the wet cleaning — this removes the fat layer that prevents the cleaning solution from reaching the pigment.
 
 ## The Hot Chocolate Spill Scenario
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Observe the triple-threat removal sequence for protein-fat-pigment combinations.*
+
 
 Hot chocolate presents a unique challenge: the liquid is hot when it spills, which means the milk proteins begin denaturing on contact with the fabric. You are dealing with a heat-activated protein stain on top of a fat-and-pigment stain.
 

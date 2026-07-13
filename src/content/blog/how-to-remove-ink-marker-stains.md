@@ -3,7 +3,7 @@ title: "How to Remove Ink and Marker Stains From Clothes and Fabrics"
 date: "2025-06-18"
 dateModified: "2025-06-18"
 excerpt: "A professional garment care facility in Nairobi shares the exact isopropyl alcohol and hand sanitiser methods that dissolve ballpoint pen, permanent marker, and fountain pen ink from cotton, polyester, and delicate fabrics without spreading."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
@@ -86,6 +86,13 @@ Many household stain removal guides recommend hairspray as an ink remover. This 
 If you choose to use hairspray, check the ingredient list: **alcohol must be listed as one of the first two ingredients** for it to have any dissolving effect on ink. If it is not, use hand sanitiser or rubbing alcohol instead.
 
 ## Fabric-Specific Considerations
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Note the solvent selection process for different ink types and fabric sensitivities.*
+
 
 ### Silk
 

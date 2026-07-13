@@ -3,7 +3,7 @@ title: "How to Remove Glue and Adhesive Stains From Clothes and Fabrics"
 date: "2025-05-10"
 dateModified: "2025-05-10"
 excerpt: "A professional garment care facility in Nairobi shares the acetone-free nail polish remover method for super glue, the freezing technique for hot glue, and the peanut butter trick for sticker residue that dissolve adhesive without damaging cotton, polyester, or delicate fabrics."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
@@ -133,6 +133,13 @@ For residue that oil does not fully dissolve:
 3. **Blot and scrape** the softened adhesive.
 
 ## Fabric Glue Removal
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Note the careful application method for dissolving adhesive bonds safely.*
+
 
 Fabric glue is the most challenging adhesive because it penetrates deeply into fibres and is designed to be wash-resistant.
 

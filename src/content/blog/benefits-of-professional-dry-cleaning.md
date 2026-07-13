@@ -3,7 +3,7 @@ title: "Why Your Expensive Clothes Need Professional Dry Cleaning: A Complete Gu
 date: "2025-07-05"
 dateModified: "2025-07-05"
 excerpt: "A professional garment care facility in Nairobi explains why solvent-based cleaning outperforms home washing for suit structure preservation, colour retention, stain removal, and fabric longevity — with the cost-per-wear math that proves professional care is the economical choice."
-coverImage: "/images/seats cleaning.jpg"
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "9 min read"
 ---
@@ -87,6 +87,13 @@ Standard home washing removes surface soil but does not address deep contaminati
 - **Sofa upholstery** — which absorbs body oils and food particles
 
 ## 5. Colour Preservation and Fabric Longevity
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Observe the professional-grade equipment and techniques that protect garment investment.*
+
 
 The mathematics of garment economics are straightforward. Consider a quality suit or dress:
 

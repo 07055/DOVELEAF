@@ -3,7 +3,7 @@ title: "How to Store Winter Clothes for the Summer Without Moth Damage"
 date: "2025-05-25"
 dateModified: "2025-05-25"
 excerpt: "A professional garment care facility in Nairobi shares the wash-before-store rule, the cedar and lavender protection system, and the breathable storage method that keeps wool, cashmere, and down garments moth-free through the off-season."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
@@ -93,6 +93,13 @@ Mothballs contain **naphthalene or paradichlorobenzene** — synthetic chemicals
 Cedar and lavender provide comparable moth deterrence without these health risks.
 
 ## Step 5: Fold, Do Not Hang
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&auto=format&fit=crop)
+
+*Observe the breathable storage method that prevents moth damage and mildew.*
+
 
 **Fold all winter garments for storage** — do not hang them. Wool, cashmere, and knit fabrics are heavy, and hanging causes them to stretch under their own weight over months of storage. This creates permanent shoulder bumps, elongated hems, and distorted necklines.
 

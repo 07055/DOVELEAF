@@ -3,7 +3,7 @@ title: "How to Get Red Wine Stains Out of Fine Fabrics and Carpet"
 date: "2025-06-20"
 dateModified: "2025-06-20"
 excerpt: "A professional garment care facility in Nairobi shares the salt absorption technique, club soda method, and white wine counter-treatment that remove red wine from cotton, silk, wool, and upholstery without setting the stain."
-coverImage: "/images/special fabric.jpg"
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -113,6 +113,13 @@ For wine on carpet or sofa upholstery:
 7. Blot dry with a clean towel.
 
 ## The Most Important Rule
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Note the absorption method timing that prevents tannin bonding with fibres.*
+
 
 **Never apply heat to a red wine stain until it is completely gone.** No hot water, no iron, no dryer. Heat sets tannin pigments permanently and makes the stain exponentially harder to remove. If you are unsure whether the stain is fully removed, air dry the garment and inspect before applying any heat.
 

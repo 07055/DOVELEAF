@@ -3,7 +3,7 @@ title: "The Capsule Wardrobe Guide: Fewer Clothes, Better Care"
 date: "2025-05-08"
 dateModified: "2025-05-08"
 excerpt: "A professional garment care facility in Nairobi explains how a 30-piece capsule wardrobe reduces laundry frequency, extends garment lifespan, and simplifies fabric care — with the exact maintenance schedule that keeps every piece in rotation for years."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "9 min read"
 ---
@@ -134,6 +134,13 @@ Invest in **mesh laundry bags** in three sizes:
 Placing garments in mesh bags reduces mechanical stress during washing, extends garment life, and prevents small items from getting lost in the machine.
 
 ## The Quality Over Quantity Principle
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&auto=format&fit=crop)
+
+*Note the organized arrangement that maximizes garment longevity and accessibility.*
+
 
 The capsule wardrobe works best when each piece is chosen for **durability and versatility** rather than trendiness or price.
 

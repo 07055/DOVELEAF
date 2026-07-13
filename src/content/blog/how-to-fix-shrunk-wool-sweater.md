@@ -3,7 +3,7 @@ title: "How to Unshrink a Wool Sweater: The Hair Conditioner Method That Actuall
 date: "2025-07-12"
 dateModified: "2025-07-12"
 excerpt: "Accidentally shrunk your favourite merino wool or cashmere sweater? A professional garment care facility in Nairobi shares the exact fibre-relaxation technique used to restore shrunken wool, cashmere, and mohair to their original size."
-coverImage: "/images/special fabric.jpg"
+coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -96,6 +96,13 @@ After the conditioning soak, insert **wide rubber bands** through the interior o
 This provides sustained, gentle tension that encourages the fibres to dry in their expanded state. It is the same principle behind professional blocking frames used in knitting studios worldwide.
 
 ## Cashmere-Specific Considerations
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+
+*Note the fibre relaxation process that restores shrunken wool to original dimensions.*
+
 
 Cashmere is finer and more delicate than standard wool, which means it felts faster and requires a gentler unshrinking approach:
 

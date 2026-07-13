@@ -3,7 +3,7 @@ title: "How to Remove Mould and Mildew Stains From Clothes and Fabrics"
 date: "2025-05-18"
 dateModified: "2025-05-18"
 excerpt: "A professional garment care facility in Nairobi shares the white vinegar and borax soak method that kills mould spores, removes black mildew marks, and prevents regrowth on cotton, linen, leather, and bathroom upholstery."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
@@ -114,6 +114,13 @@ For **bath mats**, use the full treatment sequence: sunlight, vinegar soak, bora
 For **towels with mould**, the vinegar and borax soak followed by a hot-water wash with vinegar in the rinse cycle is effective. However, heavily moulded towels may harbour deep spore colonies that are not fully eliminated — when in doubt, replace.
 
 ## Preventing Mould Growth
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Observe the proper ventilation and safety precautions when treating mould on fabric.*
+
 
 Prevention is dramatically easier than removal:
 

@@ -3,7 +3,7 @@ title: "The Complete Guide to Removing Blood Stains from Fabric"
 date: "2025-06-22"
 dateModified: "2025-06-22"
 excerpt: "A professional garment care facility in Nairobi shares the exact hydrogen peroxide and enzymatic pre-soak methods that remove both fresh and dried blood from cotton, silk, wool, and upholstery without setting the stain."
-coverImage: "/images/hero section.jpg"
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -98,6 +98,13 @@ For **mattress stains**, you cannot submerge the item. Instead:
 4. Allow to air dry completely before remaking the bed.
 
 ## Blood on Denim
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+
+*Observe the cold-water priority protocol for protein-based stain treatment.*
+
 
 Raw and dark-wash denim presents a unique challenge: you need to remove the blood without stripping the indigo dye.
 

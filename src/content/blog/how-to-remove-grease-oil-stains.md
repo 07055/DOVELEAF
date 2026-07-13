@@ -3,7 +3,7 @@ title: "How to Remove Tough Grease and Cooking Oil Stains from Clothes"
 date: "2025-06-25"
 dateModified: "2025-06-25"
 excerpt: "A professional garment care facility in Nairobi shares the exact cornstarch absorption and dish soap degreasing method that removes fresh and set-in cooking oil, butter, and vegetable oil from cotton, polyester, and blends."
-coverImage: "/images/seats cleaning.jpg"
+coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -87,6 +87,13 @@ For thick, stubborn grease stains — engine oil, cooking grease splatter on hea
 Mix into a thick paste and apply directly to the stain. Cover with cling film and leave for **two hours**. The baking soda provides abrasion, the dish soap emulsifies the oil, and the hydrogen peroxide oxidises the remaining residue. Rinse with warm water and launder as normal.
 
 ## The Cold-Water Rule for Unknown Fabrics
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1558171813-4c088753af8f?w=800&auto=format&fit=crop)
+
+*Note the proper technique for applying degreasing agents to fabric stains.*
+
 
 If you do not know the fabric content or care requirements, always start with **cold water**. Cold water removes surface oil without risking dye transfer, shrinkage, or heat damage. You can escalate to warm or hot water once you have confirmed the fabric responds well to the initial treatment.
 

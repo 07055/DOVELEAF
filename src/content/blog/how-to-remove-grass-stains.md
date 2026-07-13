@@ -3,7 +3,7 @@ title: "How to Remove Grass Stains From Clothes and Shoes"
 date: "2025-05-12"
 dateModified: "2025-05-12"
 excerpt: "A professional garment care facility in Nairobi shares the rubbing alcohol and dish soap method that dissolves chlorophyll-based grass stains from cotton, denim, polyester, and children's play clothes without fading or fibre damage."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---
@@ -103,6 +103,13 @@ Liquid treatments damage leather finishes. For grass stains on leather:
 For suede, do not use any liquid — take the item to a professional leather cleaner.
 
 ## Grass Stains on Shoes
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&auto=format&fit=crop)
+
+*Observe how chlorophyll-based stains respond to targeted solvent treatments.*
+
 
 Athletic shoes and canvas sneakers are frequent grass stain victims:
 

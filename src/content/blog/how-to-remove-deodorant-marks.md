@@ -3,7 +3,7 @@ title: "How to Remove Deodorant and Antiperspirant Marks From Clothes"
 date: "2025-05-15"
 dateModified: "2025-05-15"
 excerpt: "A professional garment care facility in Nairobi shares the dry rubbing technique, the baking soda pre-wash paste, and the aluminium-free prevention strategy that eliminates white marks, yellow stains, and stiff patches from cotton, polyester, and silk."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---
@@ -86,6 +86,13 @@ White vinegar's acetic acid dissolves aluminium compounds effectively:
 This method is particularly effective for **yellow deodorant stains** on white cotton, where the yellowing is caused by the chemical reaction between aluminium and sweat proteins.
 
 ## Removal: Hydrogen Peroxide (White Fabrics Only)
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop)
+
+*Observe the correct pre-treatment alignment for aluminium-based stains.*
+
 
 For stubborn white or yellow marks on white cotton that resist baking soda and vinegar:
 

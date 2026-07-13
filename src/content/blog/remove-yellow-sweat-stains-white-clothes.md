@@ -3,7 +3,7 @@ title: "How to Remove Yellow Sweat Stains From White Shirts Permanently"
 date: "2025-07-08"
 dateModified: "2025-07-08"
 excerpt: "A professional garment care facility in Nairobi explains why chlorine bleach makes yellow armpit stains worse, and shares the exact baking soda, hydrogen peroxide, and dish soap paste method that permanently eliminates them."
-coverImage: "/images/hero section.jpg"
+coverImage: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "9 min read"
 ---
@@ -106,6 +106,13 @@ If you have several white shirts with accumulated yellowing, the paste method be
 This pre-soak loosens the aluminium-protein complex enough that the paste method can finish the job more quickly on individual garments.
 
 ## Prevention: How to Stop Yellow Stains From Forming
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop)
+
+*Note the correct paste application technique for permanent sweat stain removal.*
+
 
 Once you have removed the stains, prevent them from returning with these strategies:
 

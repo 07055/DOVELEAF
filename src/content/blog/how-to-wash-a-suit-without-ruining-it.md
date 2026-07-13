@@ -3,7 +3,7 @@ title: "How to Wash a Suit Without Ruining the Structure"
 date: "2025-06-03"
 dateModified: "2025-06-03"
 excerpt: "A professional garment care facility in Nairobi shares the exact spot-cleaning, steam-freshening, and occasional full-wash method that maintains suit structure, prevents shoulder distortion, and extends the life of wool, polyester, and blend suits."
-coverImage: "/images/hero section.jpg"
+coverImage: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -134,6 +134,13 @@ Shiny areas are caused by friction that has flattened the fabric fibres. This is
 4. **Brush with the horsehair brush** to restore the nap.
 
 ## Suits in Nairobi's Climate
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=800&auto=format&fit=crop)
+
+*Note the structural preservation technique for tailored garment architecture.*
+
 
 Nairobi's warm daytime temperatures and occasional rain mean suits in this environment face specific challenges:
 

@@ -3,7 +3,7 @@ title: "The Complete Guide to Washing and Caring for Linen Clothing"
 date: "2025-06-10"
 dateModified: "2025-06-10"
 excerpt: "A professional garment care facility in Nairobi shares how to wash, dry, iron, and store linen garments without shrinkage, fibre damage, or colour fading — including the cold-water pre-soak that prevents pilling."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -98,6 +98,13 @@ If you prefer a crisp, smooth finish:
 If you do not enjoy ironing, remove linen from the dryer while slightly damp and hang immediately. The gravity and air will smooth most wrinkles naturally. For stubborn wrinkles, hang the garment in a steamy bathroom for fifteen minutes — the ambient moisture will relax the fibres without ironing.
 
 ## Storing Linen
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+
+*Observe the natural fibre alignment when ironing linen at optimal temperature.*
+
 
 Linen should be stored **clean and completely dry** — moisture causes mildew, which is extremely difficult to remove from linen's porous fibres.
 

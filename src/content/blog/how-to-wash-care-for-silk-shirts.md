@@ -3,7 +3,7 @@ title: "How to Wash and Care for Silk Shirts Without Damage"
 date: "2025-05-28"
 dateModified: "2025-05-28"
 excerpt: "A professional garment care facility in Nairobi shares the exact lukewarm hand-wash and vinegar rinse method that preserves silk lustre, prevents water spots, and maintains colour vibrancy on silk shirts, blouses, and ties."
-coverImage: ""
+coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "7 min read"
 ---
@@ -89,6 +89,13 @@ Silk wrinkles less than cotton or linen, but it does develop creases — especia
 5. **Use steam** rather than direct pressure for the body of the shirt. Hold the iron slightly above the fabric and let the steam relax the wrinkles.
 
 ## Removing Common Silk Stains
+
+## Visual Care Reference
+
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+
+*Observe the lukewarm water technique that preserves silk lustre and colour.*
+
 
 ### Sweat Stains
 
