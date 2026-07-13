@@ -1,5 +1,3 @@
-import matter from 'gray-matter';
-
 const markdownModules = import.meta.glob('../content/blog/*.md', {
     query: '?raw',
     import: 'default',
@@ -18,18 +16,37 @@ function slugFromPath(path) {
     return fileName.replace(/\.md$/, '');
 }
 
+function parseFrontmatter(raw) {
+    const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+    if (!match) return { data: {}, content: raw };
+
+    const yamlLines = match[1].split('\n');
+    const data = {};
+
+    for (const line of yamlLines) {
+        const colonIdx = line.indexOf(':');
+        if (colonIdx === -1) continue;
+
+        const key = line.slice(0, colonIdx).trim();
+        let value = line.slice(colonIdx + 1).trim();
+
+        if (
+            (value.startsWith('"') && value.endsWith('"')) ||
+            (value.startsWith("'") && value.endsWith("'"))
+        ) {
+            value = value.slice(1, -1);
+        }
+
+        if (key) data[key] = value;
+    }
+
+    return { data, content: match[2] };
+}
+
 function parsePost(path, rawContent) {
     const slug = slugFromPath(path);
 
-    let data;
-    let content;
-    try {
-        ({ data, content } = matter(rawContent));
-    } catch (err) {
-        console.error(`Failed to parse frontmatter in ${path}:`, err);
-        data = {};
-        content = rawContent;
-    }
+    const { data, content } = parseFrontmatter(rawContent);
 
     const body = content.trim();
     const wordCount = body.split(/\s+/).length;
