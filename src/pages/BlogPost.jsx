@@ -215,7 +215,7 @@ const BlogPost = () => {
                         </div>
 
                         {/* Author Bio Box */}
-                        <AuthorBio />
+                        <AuthorBio author={post.author} />
 
                         {/* Back to Blog CTA */}
                         <div className="blog-post-footer">

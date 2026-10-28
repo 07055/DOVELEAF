@@ -156,7 +156,8 @@ ul {
 }
 
 .blog-card-date,
-.blog-card-reading-time {
+.blog-card-reading-time,
+.blog-card-author {
   display: flex;
   align-items: center;
   gap: 0.35rem;
