@@ -77,6 +77,9 @@ Unaligned machine capacities create severe delays. For example, if your wash hou
 * **Minimize Redundant Material Handling:** Arrange equipment in a logical sequence to prevent workers from pushing heavy linen carts back and forth.
 * **Standardize Workstations:** Keep spotting agents, hangers, poly-rolls, and tags within arm's reach of operators.
 
+![Commercial steam pressing and vacuum workstations](/images/advisory/commercial-pressing-stations.jpeg)
+*Standardized pressing stations eliminate clutter, reduce operator strain, and guarantee uniform garment finishing.*
+
 ### Key Productivity Indicators (KPIs)
 
 ```

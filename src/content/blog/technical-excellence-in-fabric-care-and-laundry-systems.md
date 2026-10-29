@@ -67,6 +67,9 @@ Professional garment care extends far beyond simple wash-and-tumble routines. It
 * **Pressing & Finishing Techniques:** Utilizing steam utility presses, tensioning formers, and pressing cloths to prevent unsightly fabric shine on dark wools.
 * **Pre-Packaging Inspection:** Final inspection under balanced daylight lamps to verify lint removal, odor neutralization, and spotless presentation.
 
+![Industrial steam pressing and vacuum ironing table](/images/advisory/industrial-steam-ironing-table.jpeg)
+*Professional steam utility tables ensure gentle, scorch-free pressing for structured jackets and fine fabrics.*
+
 ---
 
 ### Pillar 3: Advanced Stain Removal Systems

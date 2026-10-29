@@ -60,6 +60,9 @@ Effective layout engineering maps the entire production journey along a **Standa
 5. **Finishing & Ironing:** High-speed thermal flatwork ironers, shirt presses, and folding stations.
 6. **Packaging & Dispatch:** Quality inspection, protective wrapping, and climate-controlled dispatch staging.
 
+![High-performance commercial steam vacuum ironing stations](/images/advisory/commercial-pressing-stations.jpeg)
+*Commercial finishing stations with ergonomic vacuum extraction and suspended steam irons engineered to prevent workflow bottlenecks.*
+
 > **Healthcare Hygiene Note:** For medical and healthcare linen, an engineered physical barrier wall separating the "soiled side" from the "clean side" (utilizing pass-through barrier washers) is mandatory to comply with international sanitization and infection control standards.
 
 ---
@@ -119,6 +122,9 @@ A foundational engineering principle is the **Theory of Constraints**: identifyi
 
 * **Labor Productivity (Kg / Operator Hour):** Tracking total kg processed divided by total paid labor hours to evaluate staffing balance and station efficiency.
 * **Rewash Rate (< 2.0%):** Keeping rewash rates strictly below 2% through proper stain pre-sorting and automated chemical dosing, preventing costly duplicate cycles.
+
+![Industrial steam ironing table station](/images/advisory/industrial-steam-ironing-table.jpeg)
+*Precision temperature and vacuum control at the finishing station prevents fabric shine and delivers crisp results.*
 
 ---
 

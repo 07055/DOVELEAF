@@ -1,5 +1,5 @@
 import React from 'react';
-import { User, Mail, Phone, Award, CheckCircle } from 'lucide-react';
+import { User, Mail, Phone } from 'lucide-react';
 
 const AuthorBio = ({ author }) => {
     const isJoeMweri = author && author.toLowerCase().includes('joe mweri');
@@ -13,8 +13,12 @@ const AuthorBio = ({ author }) => {
     if (isJoeMweri) {
         return (
             <div className="author-bio-box">
-                <div className="author-bio-avatar" style={{ border: '2px solid var(--secondary)' }}>
-                    <Award size={36} color="var(--primary)" />
+                <div className="author-bio-avatar" style={{ border: '2px solid var(--secondary)', overflow: 'hidden', padding: 0 }}>
+                    <img
+                        src="/images/advisory/joe-mweri-founder-ceo-doveleaf.jpeg"
+                        alt="Joe Mweri — The Laundry Guru"
+                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                    />
                 </div>
                 <div className="author-bio-content">
                     <p className="author-bio-label">Written by Author & Lead Consultant</p>
@@ -41,8 +45,12 @@ const AuthorBio = ({ author }) => {
     if (isAdvisoryTeam) {
         return (
             <div className="author-bio-box">
-                <div className="author-bio-avatar">
-                    <CheckCircle size={36} color="var(--primary)" />
+                <div className="author-bio-avatar" style={{ border: '2px solid var(--primary)', overflow: 'hidden', padding: '6px' }}>
+                    <img
+                        src="/doveleaf-logo.svg"
+                        alt="Doveleaf Laundry Consultants"
+                        style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+                    />
                 </div>
                 <div className="author-bio-content">
                     <p className="author-bio-label">Written by</p>

@@ -70,6 +70,9 @@ Marketing attracts the customer; operating systems ensure the customer is served
 * **Data Accuracy Protocols:** Practical guidance on how to avoid item mix-ups, record garment pre-inspections, and prevent entry errors.
 * **Standard Operating Handover:** Comprehensive handover documentation so tools and workflows continue operating smoothly without requiring the owner's constant physical presence.
 
+![Joe Mweri Founder and CEO of Doveleaf Drycleaners](/images/advisory/joe-mweri-founder-ceo-doveleaf.jpeg)
+*Hands-on systems setup, digital records, and staff training ensure consistent counter workflows and reliable order tracking.*
+
 ---
 
 ## How Our Advisory Engagements Work

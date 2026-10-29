@@ -67,6 +67,10 @@ A successful laundry business must select an operational structure that directly
 ```
 
 1. **Retail & Collection Model:** Walk-in storefronts or door-to-door collection and delivery. This model relies heavily on foot traffic, prime street visibility, fast turnaround, and exceptional retail customer experience.
+
+![Laundromat with customer queue and commercial washers](/images/advisory/laundromat-customers-washing-machines.jpeg)
+*Designing retail and laundromat models around customer flow and machine capacity planning.*
+
 2. **Commercial Plant Model:** High-volume processing plants catering to hotels, hospitals, schools, and manufacturing uniforms. The focus here is on institutional sales, contract acquisition, SLA compliance, and mechanized throughput efficiency.
 3. **Central Hub & Spoke Model:** A centralized high-efficiency processing plant feeding multiple small drop-off and collection outlets across urban centers. This provides optimal capital efficiency, centralized quality control, and minimal branch footprint overheads.
 
@@ -148,6 +152,9 @@ Building a scalable laundry enterprise requires seamless alignment between start
 ---
 
 ## Why Partner With Joe Mweri
+
+![Joe Mweri Founder and CEO of Doveleaf Drycleaners](/images/advisory/joe-mweri-founder-ceo-doveleaf.jpeg)
+*Joe Mweri, Commercial Laundry Business Consultant and Founder & CEO of Doveleaf Drycleaners.*
 
 **Joe Mweri** is a commercial laundry business consultant with over 15 years of hands-on technical and commercial experience in Kenya's laundry and dry-cleaning industry.
 

@@ -3,7 +3,7 @@ title: "Strategic Decisions Before Investing in Laundry in Kenya: A Good Investm
 date: "2026-10-27"
 dateModified: "2026-10-27"
 excerpt: "Commercial laundry consultant Joe Mweri shares the 6 critical strategic decisions every Kenyan investor must evaluate before purchasing laundry machinery or signing commercial leases."
-coverImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/laundromat-customers-washing-machines.jpeg"
 author: "Joe Mweri — The Laundry Guru"
 readingTime: "8 min read"
 ---
@@ -103,6 +103,9 @@ Financial modeling must examine your sensitivity to utility tariff hikes, minimu
 ---
 
 ### 4. Equipment Selection and Capacity Planning
+
+![Commercial vacuum ironing and finishing tables configured for laundry plants](/images/advisory/commercial-pressing-stations.jpeg)
+*Evaluating finishing throughput and steam utility tables alongside wash house equipment ensures balanced plant operations without bottlenecks.*
 
 Equipment must be selected strictly according to the work the business needs to process, rather than catalog aesthetics or vendor sales pitches:
 

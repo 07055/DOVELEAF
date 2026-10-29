@@ -3,7 +3,7 @@ title: "Building Competent Teams & Exceptional Laundry Leaders: Human Capital De
 date: "2026-10-26"
 dateModified: "2026-10-26"
 excerpt: "Commercial laundry consultant Joe Mweri outlines the six pillars of human capital development for laundry businesses — structured recruitment, supervisory coaching, technical skills verification, and customer service excellence."
-coverImage: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/the-laundry-guru-trained-employees.jpeg"
 author: "Joe Mweri"
 readingTime: "9 min read"
 ---
@@ -46,6 +46,9 @@ Building a high-performing laundry team requires a systematic framework covering
 ---
 
 ### Pillar 1: Recruitment & Competency Assessment
+
+![Joe Mweri conducting on-site operator assessments at Doveleaf Drycleaners](/images/advisory/joe-mweri-founder-ceo-doveleaf.jpeg)
+*Joe Mweri conducting on-site operator competency assessments and quality verification at the plant.*
 
 Recruiting the right talent is the foundation of dependable laundry operations. Every position requires specific, documented selection criteria that distinguish entry-level sorters, wash-house technicians, garment care specialists, counter customer agents, and plant managers.
 

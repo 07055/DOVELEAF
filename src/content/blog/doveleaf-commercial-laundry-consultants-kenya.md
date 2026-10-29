@@ -3,7 +3,7 @@ title: "Doveleaf Laundry Consultants: East Africa's Premier Commercial Laundry A
 date: "2026-10-28"
 dateModified: "2026-10-28"
 excerpt: "Discover how Doveleaf Laundry Consultants, led by Joe Mweri — The Laundry Guru, empowers investors, healthcare facilities, and hospitality brands across Kenya to build profitable, efficient, and sustainable laundry enterprises."
-coverImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/joe-mweri-speaking-conference.jpeg"
 author: "Doveleaf Laundry Consultants"
 readingTime: "9 min read"
 ---
@@ -44,6 +44,9 @@ Working parallel with our sister brand, **Doveleaf Drycleaners**, we bridge real
 
 ## Corporate & Institutional Advisory Scope
 
+![Doveleaf Laundry Consultants executive leadership with enterprise delegates](/images/advisory/joe-mweri-industry-colleagues.jpeg)
+*Doveleaf Laundry Consultants collaborating with regional laundry operators and commercial partners at the East Africa Laundry Summit.*
+
 We partner with organizations across public and private sectors in East Africa to optimize high-volume linen and garment care:
 
 * **Hotels & Luxury Resorts:** Linen turnaround scheduling, flatwork ironing optimization, and linen life preservation.
@@ -80,6 +83,10 @@ Strategic Feas.  & Engineering   & B2B Packaging  SOP Audits      Tech Systems
 * **Investor Advisory & Enterprise Expansion Strategy:** Sizing facilities correctly to support scalable regional growth.
 
 ### 2. Commercial Laundry Operations
+
+![High-performance commercial steam pressing and vacuum tables installed by Doveleaf Laundry Consultants](/images/advisory/commercial-pressing-stations.jpeg)
+*Commercial finishing and pressing lines configured for maximum throughput and fabric preservation.*
+
 * **Plant Layout Design & Workflow Engineering:** Floor plans engineered for unidirectional flow, eliminating bottlenecks and cross-contamination.
 * **Equipment Specification & Procurement Advisory:** Selecting machines based on extraction G-force, programmability, and total cost of ownership.
 * **Capacity Planning & Production Optimization:** Balancing washer-extractor capacities with drying and flatwork ironing throughput.
