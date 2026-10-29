@@ -3,7 +3,7 @@ title: "How to Build, Grow and Scale a Successful Laundry Business: From Idea to
 date: "2026-10-27"
 dateModified: "2026-10-27"
 excerpt: "Commercial laundry consultant Joe Mweri reveals the strategic roadmap for Kenyan laundry entrepreneurs — from pre-launch feasibility and revenue architecture to B2B institutional contracts, sustainable pricing models, and investment readiness."
-coverImage: "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/joe-mweri-scale-laundry-enterprise.jpeg"
 author: "Joe Mweri"
 readingTime: "11 min read"
 ---
