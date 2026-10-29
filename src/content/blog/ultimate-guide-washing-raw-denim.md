@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Washing Raw Denim Without Losing Your Fades"
 date: "2025-07-02"
 dateModified: "2025-07-02"
 excerpt: "A professional garment care facility in Nairobi shares the definitive methods for cleaning raw indigo denim — from the bathtub soak to inside-out cold washes — while preserving your unique fade patterns and honeycombs."
-coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "10 min read"
 ---
@@ -112,7 +112,7 @@ Spot cleaning confines dye loss to a tiny area and leaves the surrounding indigo
 
 ## Visual Care Reference
 
-![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1542272604-780c96856592?w=800&auto=format&fit=crop)
 
 *Observe the fade preservation technique that maintains indigo dye patterns.*
 

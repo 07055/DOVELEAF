@@ -104,7 +104,7 @@ Financial modeling must examine your sensitivity to utility tariff hikes, minimu
 
 ### 4. Equipment Selection and Capacity Planning
 
-![Commercial vacuum ironing and finishing tables configured for laundry plants](/images/advisory/commercial-pressing-stations.jpeg)
+![Commercial laundry batch sorting and processing](/images/assorted laundry per kg.jpeg)
 *Evaluating finishing throughput and steam utility tables alongside wash house equipment ensures balanced plant operations without bottlenecks.*
 
 Equipment must be selected strictly according to the work the business needs to process, rather than catalog aesthetics or vendor sales pitches:

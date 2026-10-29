@@ -3,7 +3,7 @@ title: "How to Wash and Store Cashmere Sweaters Without Damage"
 date: "2025-06-08"
 dateModified: "2025-06-08"
 excerpt: "A professional garment care facility in Nairobi shares the flat-dry cashmere method, the cedar storage system, and the exact hand-wash technique that keeps cashmere soft for decades without pilling or shrinkage."
-coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -97,7 +97,7 @@ Do this every three to five wears to maintain a smooth surface. Removing pills r
 
 ## Visual Care Reference
 
-![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&auto=format&fit=crop)
 
 *Note the flat-dry positioning that prevents cashmere stretching and distortion.*
 

@@ -3,7 +3,7 @@ title: "Technical Excellence in Fabric Care & Laundry Systems: Protecting Margin
 date: "2026-10-25"
 dateModified: "2026-10-25"
 excerpt: "Commercial laundry consultant Joe Mweri explores why technical mastery — from fabric fiber analysis and precision dosing chemistry to stain removal systems and preventive maintenance — is the true driver of laundry profitability."
-coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?w=800&auto=format&fit=crop"
 author: "Joe Mweri"
 readingTime: "10 min read"
 ---

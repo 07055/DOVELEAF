@@ -3,7 +3,7 @@ title: "How to Remove the 6 Most Common Stains From Any Fabric"
 date: "2025-07-10"
 dateModified: "2025-07-10"
 excerpt: "A professional garment care facility in Nairobi shares the exact household product protocols that remove tea, red soil, sweat, cooking oil, ink, and mould stains from cotton, linen, silk, and wool before they become permanent."
-coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -99,7 +99,7 @@ If the yellowing persists after two rounds of the above treatment, the aluminium
 
 ## Visual Care Reference
 
-![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=800&auto=format&fit=crop)
 
 *Note the systematic approach to identifying and treating everyday fabric stains.*
 

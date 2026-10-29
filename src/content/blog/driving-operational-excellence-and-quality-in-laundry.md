@@ -3,7 +3,7 @@ title: "Driving Operational Excellence & Quality in Kenya: Building Efficient Sy
 date: "2026-10-25"
 dateModified: "2026-10-25"
 excerpt: "Commercial laundry consultant Joe Mweri breaks down the operational blueprint for Kenyan commercial laundries — 11-stage SOP frameworks, productivity KPIs, process audits, cost reduction, and waste elimination strategies."
-coverImage: "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?w=800&auto=format&fit=crop"
+coverImage: "/images/commercial corporate..jpeg"
 author: "Joe Mweri"
 readingTime: "11 min read"
 ---

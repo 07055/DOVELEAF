@@ -3,7 +3,7 @@ title: "How to Remove Pet Hair From Clothes, Furniture, and Car Upholstery"
 date: "2025-05-22"
 dateModified: "2025-05-22"
 excerpt: "A professional garment care facility in Nairobi shares the rubber glove method, the lint roller alternative, and the anti-static spray technique that removes cat and dog hair from cotton, wool, upholstery, and car seats without specialised equipment."
-coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "6 min read"
 ---
@@ -83,7 +83,7 @@ For heavily hair-covered clothing, the tumble dryer provides mechanical agitatio
 
 ## Visual Care Reference
 
-![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=800&auto=format&fit=crop)
 
 *Note the static-breaking technique that releases embedded pet hair from fibres.*
 

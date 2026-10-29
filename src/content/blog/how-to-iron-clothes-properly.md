@@ -3,7 +3,7 @@ title: "How to Iron Clothes Properly: A Complete Temperature and Technique Guide
 date: "2025-05-20"
 dateModified: "2025-05-20"
 excerpt: "A professional garment care facility in Nairobi shares the exact temperature settings for every fabric type, the pressing cloth technique that prevents shine marks, and the sequence for ironing a dress shirt in under five minutes."
-coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1585834375424-013d23e35343?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "8 min read"
 ---
@@ -149,7 +149,7 @@ Hang trousers on a clip hanger by the cuff or waistband. The weight of the fabri
 
 ## Visual Care Reference
 
-![Professional Garment Care Visual](https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop)
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1585834375424-013d23e35343?w=800&auto=format&fit=crop)
 
 *Note the pressing sequence that prevents shine marks and fabric damage.*
 

@@ -84,7 +84,7 @@ Strategic Feas.  & Engineering   & B2B Packaging  SOP Audits      Tech Systems
 
 ### 2. Commercial Laundry Operations
 
-![High-performance commercial steam pressing and vacuum tables installed by Doveleaf Laundry Consultants](/images/advisory/commercial-pressing-stations.jpeg)
+![Specialized fabric treatment and finishing standards](/images/special fabric.jpg)
 *Commercial finishing and pressing lines configured for maximum throughput and fabric preservation.*
 
 * **Plant Layout Design & Workflow Engineering:** Floor plans engineered for unidirectional flow, eliminating bottlenecks and cross-contamination.

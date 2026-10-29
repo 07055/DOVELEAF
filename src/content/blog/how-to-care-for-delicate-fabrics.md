@@ -3,7 +3,7 @@ title: "How to Care for Silk, Leather, and Wedding Gowns: A Professional Guide"
 date: "2025-06-28"
 dateModified: "2025-06-28"
 excerpt: "A professional garment care facility in Nairobi shares the exact hand-wash, conditioning, and preservation methods that protect silk, leather, suede, and wedding gowns between professional cleanings — with the storage rules that prevent mould, cracking, and yellowing."
-coverImage: "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&auto=format&fit=crop"
 author: "Garment Care Team"
 readingTime: "10 min read"
 ---
@@ -124,7 +124,7 @@ If you spot white or green mould on leather during humid weather:
 
 ## Visual Care Reference
 
-![Professional Garment Care Visual](https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop)
+![Professional Garment Care Visual](https://images.unsplash.com/photo-1519741497674-611481863552?w=800&auto=format&fit=crop)
 
 *Observe the gentle handling technique required for protein-based delicate fibres.*
 
