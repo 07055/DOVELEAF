@@ -3,7 +3,7 @@ title: "Meet Joe Mweri: Kenya's Leading Commercial Laundry Business Consultant &
 date: "2026-10-28"
 dateModified: "2026-10-28"
 excerpt: "With over 15 years transforming Kenya's commercial laundry and dry-cleaning landscape, Joe Mweri, Founder & CEO of Doveleaf Drycleaners, provides executive advisory, plant layout engineering, and turnaround solutions across East Africa."
-coverImage: "/images/advisory/joe-mweri-founder-ceo-doveleaf.jpeg"
+coverImage: "/images/advisory/joe-mweri-landscape-cover.jpeg"
 author: "Joe Mweri"
 readingTime: "8 min read"
 ---

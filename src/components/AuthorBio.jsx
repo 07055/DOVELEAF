@@ -15,9 +15,9 @@ const AuthorBio = ({ author }) => {
             <div className="author-bio-box">
                 <div className="author-bio-avatar" style={{ border: '2px solid var(--secondary)', overflow: 'hidden', padding: 0 }}>
                     <img
-                        src="/images/advisory/joe-mweri-founder-ceo-doveleaf.jpeg"
+                        src="/images/advisory/joe-mweri-landscape-cover.jpeg"
                         alt="Joe Mweri — The Laundry Guru"
-                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                        style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
                     />
                 </div>
                 <div className="author-bio-content">
