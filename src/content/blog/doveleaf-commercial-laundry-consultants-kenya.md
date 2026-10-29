@@ -3,7 +3,7 @@ title: "Doveleaf Laundry Consultants: East Africa's Premier Commercial Laundry A
 date: "2026-10-28"
 dateModified: "2026-10-28"
 excerpt: "Discover how Doveleaf Laundry Consultants, led by Joe Mweri — The Laundry Guru, empowers investors, healthcare facilities, and hospitality brands across Kenya to build profitable, efficient, and sustainable laundry enterprises."
-coverImage: "/images/advisory/joe-mweri-speaking-conference.jpeg"
+coverImage: "/images/advisory/joe-mweri-speaking-solo.jpeg"
 author: "Doveleaf Laundry Consultants"
 readingTime: "9 min read"
 ---

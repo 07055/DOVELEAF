@@ -17,7 +17,7 @@ As the **Founder and Chief Executive Officer of Doveleaf Drycleaners**, Joe comb
 
 Whether advising institutional investors establishing high-capacity industrial plants, guiding healthcare facilities to modernize linen processing hygiene, helping hotels streamline turnover efficiency, or supporting entrepreneurs launching laundromats, Joe provides practical, data-driven solutions that yield measurable commercial outcomes.
 
-![Joe Mweri addressing commercial laundry leaders at an industry conference](/images/advisory/joe-mweri-speaking-conference.jpeg)
+![Joe Mweri addressing commercial laundry leaders at an industry conference](/images/advisory/joe-mweri-speaking-solo.jpeg)
 *Lead Consultant Joe Mweri delivering executive insights on commercial laundry strategy at an industry summit.*
 
 ---
