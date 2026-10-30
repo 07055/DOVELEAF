@@ -3,7 +3,7 @@ title: "How to Get Red Wine Stains Out of Fine Fabrics: Chemistry vs. Panic"
 date: "2026-10-27"
 dateModified: "2026-10-30"
 excerpt: "Spilled Cabernet or Merlot on silk, linen, or a tailored suit? THE LAUNDRY GURU team breaks down the tannin chemistry of wine stains, why table salt ruins fabrics, and how professional spotters eliminate set-in pigments safely."
-coverImage: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/red-wine-glass-stain.jpg"
 author: "THE LAUNDRY GURU team"
 readingTime: "5 min read"
 ---
@@ -61,6 +61,6 @@ Protect luxury apparel and eliminate linen replacement costs in your hospitality
 
 * **Consulting Firm:** THE LAUNDRY GURU
 * **Lead Consultant:** Joe Mweri — The Laundry Guru
-* **Direct Line / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Direct Line / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Direct Inquiries:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Advisory Practice:** [www.doveleaf.co.ke/blog](https://www.doveleaf.co.ke/blog)

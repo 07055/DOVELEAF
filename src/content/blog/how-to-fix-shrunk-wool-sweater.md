@@ -63,6 +63,6 @@ While minor shrinkage in simple knits can sometimes be eased, structured blazers
 Protect your high-value wardrobe investments and eliminate fabric handling errors in your laundry operations. Whether you need executive fabric salvage advice or comprehensive commercial laundry plant consulting, **THE LAUNDRY GURU** team delivers proven technical expertise.
 
 * **Lead Consultant:** Joe Mweri — The Laundry Guru
-* **Direct Line / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Direct Line / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Direct Inquiries:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Advisory Practice:** [www.doveleaf.co.ke/blog](https://www.doveleaf.co.ke/blog)

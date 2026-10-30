@@ -62,6 +62,6 @@ From executive garment restoration to commercial laundry plant chemistry calibra
 
 * **Consulting Firm:** THE LAUNDRY GURU
 * **Lead Consultant:** Joe Mweri — The Laundry Guru
-* **Direct Line / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Direct Line / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Direct Inquiries:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Advisory Practice:** [www.doveleaf.co.ke/blog](https://www.doveleaf.co.ke/blog)

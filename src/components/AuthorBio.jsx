@@ -29,18 +29,18 @@ const AuthorBio = ({ author }) => {
                 </p>
                 <div style={{ marginTop: '0.9rem', display: 'flex', gap: '1.25rem', flexWrap: 'wrap', fontSize: '0.88rem' }}>
                     <a
-                        href="https://wa.me/254713325431?text=Hello%20The%20Laundry%20Guru%2C%20I%20would%20like%20to%20inquire%20about%20your%20consulting%20services"
+                        href="https://wa.me/254713326439?text=Hello%20The%20Laundry%20Guru%2C%20I%20would%20like%20to%20inquire%20about%20your%20consulting%20services"
                         target="_blank"
                         rel="noopener noreferrer"
                         style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem', color: '#16a34a', fontWeight: 700 }}
                     >
-                        <MessageCircle size={16} /> WhatsApp: 0713325431
+                        <MessageCircle size={16} /> WhatsApp: 0713326439
                     </a>
                     <a
-                        href="tel:+254713325431"
+                        href="tel:+254713326439"
                         style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem', color: 'var(--primary)', fontWeight: 600 }}
                     >
-                        <Phone size={15} /> +254 713 325 431
+                        <Phone size={15} /> +254 713 326 439
                     </a>
                     <a
                         href="mailto:businessdevelopment@doveleaf.co.ke"

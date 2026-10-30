@@ -3,7 +3,7 @@ title: "How to Remove Grass Stains from Clothes: Breaking Down Chlorophyll & Org
 date: "2026-10-27"
 dateModified: "2026-10-30"
 excerpt: "Green stains on white sport uniforms or children's clothing? THE LAUNDRY GURU team breaks down the botanical chemistry of chlorophyll, why alkaline laundry soaps permanently set the dye, and how professional enzyme chemistry restores white fabrics."
-coverImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/white-cloth-grass-stain.jpg"
 author: "THE LAUNDRY GURU team"
 readingTime: "5 min read"
 ---
@@ -60,6 +60,6 @@ Eliminate garment rejections and optimize your institution's laundry efficiency.
 
 * **Consulting Firm:** THE LAUNDRY GURU
 * **Lead Consultant:** Joe Mweri — The Laundry Guru
-* **Direct Line / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Direct Line / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Direct Inquiries:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Advisory Practice:** [www.doveleaf.co.ke/blog](https://www.doveleaf.co.ke/blog)

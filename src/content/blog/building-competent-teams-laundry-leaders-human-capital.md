@@ -175,7 +175,7 @@ Whether you are launching a new facility, upskilling an established workforce, o
 * **Lead Consultant:** Joe Mweri — Commercial Laundry Business Consultant
 * **Primary Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Phone / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Offices:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
 > **BUILD COMPETENT PEOPLE. DEVELOP EXCEPTIONAL LEADERS. DELIVER CONSISTENT QUALITY.**

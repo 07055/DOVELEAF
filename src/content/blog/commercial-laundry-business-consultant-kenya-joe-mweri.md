@@ -137,7 +137,7 @@ Whether you are planning a new commercial laundry project, seeking to optimize a
 
 * **Consulting Firm:** THE LAUNDRY GURU
 * **Lead Consultant:** Joe Mweri
-* **Direct Line / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Direct Line / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Direct Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Website:** [www.doveleaf.co.ke/blog](https://www.doveleaf.co.ke/blog)

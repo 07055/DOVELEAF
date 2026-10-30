@@ -169,7 +169,7 @@ Ready to build, grow, or scale your laundry business with proven strategic clari
 * **Lead Consultant:** Joe Mweri
 * **Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Phone / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Headquarters:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
 > **BUILD WITH STRATEGY. GROW WITH PURPOSE. SCALE WITH CONFIDENCE.**

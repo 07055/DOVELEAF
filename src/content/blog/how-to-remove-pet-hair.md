@@ -3,7 +3,7 @@ title: "How to Remove Pet Hair from Clothes: Fibre Friction & Electrostatic Solu
 date: "2026-10-27"
 dateModified: "2026-10-30"
 excerpt: "Why does pet hair cling tenaciously to dark suits and woolen coats? THE LAUNDRY GURU team explores the physics of electrostatic cling, why domestic washing machines redistribute hair, and how commercial extraction restores garments."
-coverImage: "https://images.unsplash.com/photo-1585834375424-013d23e35343?w=800&auto=format&fit=crop"
+coverImage: "/images/advisory/pet-hair-garment-care.jpg"
 author: "THE LAUNDRY GURU team"
 readingTime: "5 min read"
 ---
@@ -59,6 +59,6 @@ Equip your laundry facility with professional fabric management and workflow sys
 
 * **Consulting Firm:** THE LAUNDRY GURU
 * **Lead Consultant:** Joe Mweri — The Laundry Guru
-* **Direct Line / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Direct Line / WhatsApp:** [+254 713 326 439](https://wa.me/254713326439)
 * **Direct Inquiries:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Advisory Practice:** [www.doveleaf.co.ke/blog](https://www.doveleaf.co.ke/blog)

@@ -6,9 +6,9 @@ const WhatsAppBubble = () => {
     const location = useLocation();
     const isBlog = location.pathname.startsWith('/blog');
 
-    // On the blog, direct visitors to THE LAUNDRY GURU consulting WhatsApp: 0713325431
+    // On the blog, direct visitors to THE LAUNDRY GURU consulting WhatsApp: 0713326439
     // On core retail pages, direct visitors to Doveleaf Drycleaners customer care: 0713322228
-    const phoneNumber = isBlog ? '254713325431' : '254713322228';
+    const phoneNumber = isBlog ? '254713326439' : '254713322228';
     const defaultText = isBlog
         ? 'Hello The Laundry Guru, I would like to inquire about your commercial laundry business consulting services.'
         : 'Hello Doveleaf Drycleaners, I would like to book a laundry pickup or inquire about your services.';
@@ -21,7 +21,7 @@ const WhatsAppBubble = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label={isBlog ? 'Chat with The Laundry Guru on WhatsApp' : 'Chat with Doveleaf Drycleaners on WhatsApp'}
-            title={isBlog ? 'Chat with The Laundry Guru (0713325431)' : 'Chat with Doveleaf Drycleaners (0713322228)'}
+            title={isBlog ? 'Chat with The Laundry Guru (0713326439)' : 'Chat with Doveleaf Drycleaners (0713322228)'}
             style={{
                 position: 'fixed',
                 bottom: '2rem',

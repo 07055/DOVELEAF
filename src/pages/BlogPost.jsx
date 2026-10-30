@@ -235,7 +235,7 @@ const BlogPost = () => {
                                 Looking to set up a commercial plant, optimize fabric processing, or turnaround an existing laundry operation? Connect directly with <strong>THE LAUNDRY GURU</strong> team led by Joe Mweri.
                             </p>
                             <a
-                                href="https://wa.me/254713325431?text=Hello%20The%20Laundry%20Guru%2C%20I%20would%20like%20to%20inquire%20about%20your%20commercial%20laundry%20consulting%20services."
+                                href="https://wa.me/254713326439?text=Hello%20The%20Laundry%20Guru%2C%20I%20would%20like%20to%20inquire%20about%20your%20commercial%20laundry%20consulting%20services."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 style={{
@@ -252,7 +252,7 @@ const BlogPost = () => {
                                     boxShadow: '0 4px 14px rgba(37, 211, 102, 0.35)'
                                 }}
                             >
-                                <MessageCircle size={20} /> Chat With The Laundry Guru on WhatsApp (0713325431)
+                                <MessageCircle size={20} /> Chat With The Laundry Guru on WhatsApp (0713326439)
                             </a>
                         </div>
 
