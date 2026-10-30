@@ -4,7 +4,7 @@ date: "2026-10-26"
 dateModified: "2026-10-26"
 excerpt: "Commercial laundry consultant Joe Mweri breaks down the engineering blueprint for industrial laundry facilities in Kenya — plant layout design, workflow optimization, equipment selection matrices, and utility efficiency controls."
 coverImage: "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?w=800&auto=format&fit=crop"
-author: "Joe Mweri"
+author: "THE LAUNDRY GURU team"
 readingTime: "10 min read"
 ---
 
@@ -154,7 +154,7 @@ Consistent cleaning quality must never rely on individual worker guesswork or su
 
 Engineering a high-performing commercial laundry plant requires integrating technical layout design, equipment engineering, utility strategy, and financial modeling.
 
-**Doveleaf Laundry Consultants** delivers end-to-end operational advisory across Kenya and East Africa:
+**THE LAUNDRY GURU** delivers end-to-end operational advisory across Kenya and East Africa:
 
 ### New Facility Development
 * Feasibility studies, capacity planning, and sizing calculations.
@@ -172,7 +172,7 @@ Engineering a high-performing commercial laundry plant requires integrating tech
 
 **Joe Mweri** brings over 15 years of hands-on expertise in Kenya's commercial laundry and dry-cleaning industry. His advisory approach bridges the gap between capital investment and daily operational reality.
 
-By analyzing the interdependencies between machinery, workflow, utilities, labor, and quality management, Doveleaf Laundry Consultants ensures that clients build operations that are technically sound, highly efficient, and positioned for long-term growth.
+By analyzing the interdependencies between machinery, workflow, utilities, labor, and quality management, THE LAUNDRY GURU ensures that clients build operations that are technically sound, highly efficient, and positioned for long-term growth.
 
 ---
 
@@ -183,7 +183,7 @@ Engage professional operations consultancy early to optimize layout design, sele
 * **Lead Consultant:** Joe Mweri
 * **Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Offices:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
 > **ENGINEER THE OPERATION. OPTIMIZE THE PERFORMANCE. BUILD FOR GROWTH.**

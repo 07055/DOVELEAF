@@ -4,7 +4,7 @@ date: "2026-10-27"
 dateModified: "2026-10-27"
 excerpt: "Commercial laundry consultant Joe Mweri shares the 6 critical strategic decisions every Kenyan investor must evaluate before purchasing laundry machinery or signing commercial leases."
 coverImage: "/images/advisory/laundromat-customers-washing-machines.jpeg"
-author: "Joe Mweri — The Laundry Guru"
+author: "THE LAUNDRY GURU team"
 readingTime: "8 min read"
 ---
 
@@ -162,7 +162,7 @@ As Founder & CEO of Doveleaf Drycleaners, my role is to help you examine critica
 
 * **Lead Consultant:** Joe Mweri ~ The Laundry Guru
 * **Primary Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
 * **Website:** [www.doveleaf.co.ke](https://www.doveleaf.co.ke)
 * **Locations:** Lang'ata & Upper Hill, Nairobi, Kenya

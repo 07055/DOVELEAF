@@ -80,6 +80,9 @@ export function getAllPosts() {
 }
 
 export function getPostBySlug(slug) {
+    if (slug === 'doveleaf-commercial-laundry-consultants-kenya') {
+        return slugMap.get('the-laundry-guru-commercial-laundry-consultants-kenya') || null;
+    }
     return slugMap.get(slug) || null;
 }
 

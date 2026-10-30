@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { Calendar, Clock, ArrowLeft, User } from 'lucide-react';
+import { Calendar, Clock, ArrowLeft, User, MessageCircle } from 'lucide-react';
 import { getPostBySlug } from '../utils/blogUtils';
 import AdSenseUnit from '../components/AdSenseUnit';
 import AuthorBio from '../components/AuthorBio';
@@ -121,7 +121,7 @@ const BlogPost = () => {
     return (
         <div className="blog-page">
             <Helmet>
-                <title>{post.title} | Doveleaf Drycleaners Blog</title>
+                <title>{post.title} | THE LAUNDRY GURU</title>
                 <meta name="description" content={post.excerpt} />
                 <link rel="canonical" href={articleUrl} />
                 <meta property="og:title" content={post.title} />
@@ -212,6 +212,48 @@ const BlogPost = () => {
                                 adSlot={AD_SLOT_FOOTER}
                                 format="horizontal"
                             />
+                        </div>
+
+                        {/* Consulting WhatsApp CTA */}
+                        <div
+                            className="blog-consulting-cta"
+                            style={{
+                                margin: '2.5rem 0',
+                                padding: '2rem 1.5rem',
+                                background: 'linear-gradient(135deg, #0d2818 0%, #041f11 100%)',
+                                borderRadius: '14px',
+                                color: '#ffffff',
+                                textAlign: 'center',
+                                border: '1px solid rgba(37, 211, 102, 0.25)',
+                                boxShadow: '0 8px 24px rgba(0,0,0,0.1)'
+                            }}
+                        >
+                            <h3 style={{ color: '#ffffff', fontSize: '1.45rem', fontWeight: 800, marginBottom: '0.65rem' }}>
+                                Commercial Laundry Advisory & Technical Support
+                            </h3>
+                            <p style={{ color: '#e2e8f0', fontSize: '1rem', maxWidth: '640px', margin: '0 auto 1.4rem', lineHeight: 1.6 }}>
+                                Looking to set up a commercial plant, optimize fabric processing, or turnaround an existing laundry operation? Connect directly with <strong>THE LAUNDRY GURU</strong> team led by Joe Mweri.
+                            </p>
+                            <a
+                                href="https://wa.me/254713325431?text=Hello%20The%20Laundry%20Guru%2C%20I%20would%20like%20to%20inquire%20about%20your%20commercial%20laundry%20consulting%20services."
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                style={{
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.6rem',
+                                    backgroundColor: '#25D366',
+                                    color: '#ffffff',
+                                    padding: '0.85rem 1.75rem',
+                                    borderRadius: '50px',
+                                    fontWeight: 700,
+                                    fontSize: '1rem',
+                                    textDecoration: 'none',
+                                    boxShadow: '0 4px 14px rgba(37, 211, 102, 0.35)'
+                                }}
+                            >
+                                <MessageCircle size={20} /> Chat With The Laundry Guru on WhatsApp (0713325431)
+                            </a>
                         </div>
 
                         {/* Author Bio Box */}

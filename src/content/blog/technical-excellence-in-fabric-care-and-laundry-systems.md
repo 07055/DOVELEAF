@@ -4,7 +4,7 @@ date: "2026-10-25"
 dateModified: "2026-10-25"
 excerpt: "Commercial laundry consultant Joe Mweri explores why technical mastery — from fabric fiber analysis and precision dosing chemistry to stain removal systems and preventive maintenance — is the true driver of laundry profitability."
 coverImage: "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?w=800&auto=format&fit=crop"
-author: "Joe Mweri"
+author: "THE LAUNDRY GURU team"
 readingTime: "10 min read"
 ---
 
@@ -154,7 +154,7 @@ When these systems function harmoniously:
 
 ---
 
-## Why Work With Joe Mweri & Doveleaf Laundry Consultants
+## Why Work With Joe Mweri & THE LAUNDRY GURU
 
 As a commercial laundry consultant with over 15 years of hands-on industry experience in Kenya, Joe Mweri helps investors bridge technical decisions with operational realities—ensuring cost control, fabric protection, and sustainable business growth.
 
@@ -172,14 +172,14 @@ As a commercial laundry consultant with over 15 years of hands-on industry exper
 
 ---
 
-### Engage Doveleaf Laundry Consultants Today
+### Engage THE LAUNDRY GURU Today
 
 Transform your technical performance, safeguard your operating margins, and build a sustainable laundry operation:
 
 * **Lead Consultant:** Joe Mweri
 * **Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Location:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
 > **TECHNICAL EXPERTISE. PROFESSIONAL FABRIC CARE. SUSTAINABLE LAUNDRY PERFORMANCE.**

@@ -4,7 +4,7 @@ date: "2026-10-27"
 dateModified: "2026-10-27"
 excerpt: "Commercial laundry consultant Joe Mweri reveals the strategic roadmap for Kenyan laundry entrepreneurs — from pre-launch feasibility and revenue architecture to B2B institutional contracts, sustainable pricing models, and investment readiness."
 coverImage: "/images/advisory/joe-mweri-scale-laundry-enterprise.jpeg"
-author: "Joe Mweri"
+author: "THE LAUNDRY GURU team"
 readingTime: "11 min read"
 ---
 
@@ -142,7 +142,7 @@ Scaling successfully requires transitioning from hands-on founder micro-manageme
 
 Building a scalable laundry enterprise requires seamless alignment between startup strategy, business model design, B2B sales packaging, pricing discipline, and expansion readiness.
 
-**Doveleaf Laundry Consultants** delivers structured advisory services tailored to your business stage:
+**THE LAUNDRY GURU** delivers structured advisory services tailored to your business stage:
 
 1. **Start-Up & Model Design:** Concept evaluation, market positioning, facility sizing, machinery selection, and revenue architecture for new investors.
 2. **B2B Sales & Pricing Optimization:** Developing corporate proposals, SLA frameworks, cost-plus pricing algorithms, and institutional account management protocols.
@@ -162,14 +162,14 @@ As Founder & CEO of Doveleaf Drycleaners, Joe combines front-line plant operatio
 
 ---
 
-### Partner With Doveleaf Laundry Consultants Today
+### Partner With THE LAUNDRY GURU Today
 
 Ready to build, grow, or scale your laundry business with proven strategic clarity?
 
 * **Lead Consultant:** Joe Mweri
 * **Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Headquarters:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
 > **BUILD WITH STRATEGY. GROW WITH PURPOSE. SCALE WITH CONFIDENCE.**

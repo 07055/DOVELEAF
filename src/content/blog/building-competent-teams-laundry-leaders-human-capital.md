@@ -4,7 +4,7 @@ date: "2026-10-26"
 dateModified: "2026-10-26"
 excerpt: "Commercial laundry consultant Joe Mweri outlines the six pillars of human capital development for laundry businesses — structured recruitment, supervisory coaching, technical skills verification, and customer service excellence."
 coverImage: "/images/advisory/the-laundry-guru-trained-employees.jpeg"
-author: "Joe Mweri"
+author: "THE LAUNDRY GURU team"
 readingTime: "9 min read"
 ---
 
@@ -12,7 +12,7 @@ In the commercial laundry and dry-cleaning industry, quality delivery is not ach
 
 Modern industrial equipment can expand processing capacity and speed up cycles, but it cannot independently evaluate a delicate silk blouse, formulate a specialized chemical stain-removal approach, diffuse an upset customer complaint, or inspire a production team under high-volume pressures.
 
-At **Doveleaf Laundry Consultants**, we treat human capital development as a core strategic business investment rather than an occasional, informal training session.
+At **THE LAUNDRY GURU**, we treat human capital development as a core strategic business investment rather than an occasional, informal training session.
 
 ---
 
@@ -146,7 +146,7 @@ Technical excellence on the plant floor must be matched by professional, empathe
 
 ## The Solution: Human Capital Development Consulting Package
 
-**Doveleaf Laundry Consultants** offers an integrated consulting package structured to build competent teams, nurture supervisors, standardize garment care, and elevate service quality:
+**THE LAUNDRY GURU** offers an integrated consulting package structured to build competent teams, nurture supervisors, standardize garment care, and elevate service quality:
 
 ### Team Development & Assessment
 * Tailored competency framework design for every laundry role.
@@ -166,16 +166,16 @@ With over 15 years of industry leadership in Kenya, **Joe Mweri** connects emplo
 
 Equipment provides installed capacity; competent, well-trained people convert that capacity into quality delivery, customer loyalty, and sustainable enterprise growth.
 
-Whether you are launching a new facility, upskilling an established workforce, or preparing for regional expansion, Doveleaf Laundry Consultants delivers practical, field-tested human capital strategies.
+Whether you are launching a new facility, upskilling an established workforce, or preparing for regional expansion, THE LAUNDRY GURU delivers practical, field-tested human capital strategies.
 
 ---
 
-### Engage Doveleaf Laundry Consultants Today
+### Engage THE LAUNDRY GURU Today
 
 * **Lead Consultant:** Joe Mweri — Commercial Laundry Business Consultant
 * **Primary Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Offices:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
 > **BUILD COMPETENT PEOPLE. DEVELOP EXCEPTIONAL LEADERS. DELIVER CONSISTENT QUALITY.**

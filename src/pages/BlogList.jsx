@@ -15,11 +15,11 @@ const BlogList = () => {
     return (
         <div className="blog-page">
             <Helmet>
-                <title>Blog | Doveleaf Drycleaners — Expert Garment Care & Laundry Business Insights</title>
-                <meta name="description" content="Read expert tips on stain removal, fabric care, dry cleaning, and commercial laundry business consultancy from Joe Mweri and the Doveleaf Drycleaners team in Nairobi." />
+                <title>Blog | THE LAUNDRY GURU — Commercial Laundry Business Advisory & Insights</title>
+                <meta name="description" content="Commercial laundry business consultancy, plant engineering, investor feasibility, and expert fabric care insights from Joe Mweri and THE LAUNDRY GURU team in Nairobi, Kenya." />
                 <link rel="canonical" href="https://doveleaf.co.ke/blog" />
-                <meta property="og:title" content="Blog | Doveleaf Drycleaners" />
-                <meta property="og:description" content="Expert tips on stain removal, fabric care, and commercial laundry business advisory." />
+                <meta property="og:title" content="Blog | THE LAUNDRY GURU Advisory & Insights" />
+                <meta property="og:description" content="Commercial laundry business consultancy, plant engineering, feasibility, and expert fabric care insights from Joe Mweri and THE LAUNDRY GURU team." />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://doveleaf.co.ke/blog" />
             </Helmet>
@@ -27,9 +27,9 @@ const BlogList = () => {
             {/* Hero Banner */}
             <section className="blog-hero">
                 <div className="container">
-                    <h1 className="blog-hero-title">Our Blog & Advisory Insights</h1>
+                    <h1 className="blog-hero-title">Commercial Laundry Advisory & Industry Insights</h1>
                     <p className="blog-hero-subtitle">
-                        Expert advice on garment care, stain removal, fabric treatment, and commercial laundry business strategy
+                        Executive guidance on commercial laundry engineering, plant setup, investor feasibility, and professional fabric care from <strong>THE LAUNDRY GURU</strong> team led by Joe Mweri
                     </p>
                 </div>
             </section>

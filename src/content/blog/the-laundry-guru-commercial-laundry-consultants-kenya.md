@@ -1,16 +1,16 @@
 ---
-title: "Doveleaf Laundry Consultants: East Africa's Premier Commercial Laundry Advisory Firm"
+title: "THE LAUNDRY GURU: East Africa's Premier Commercial Laundry Advisory Firm"
 date: "2026-10-28"
-dateModified: "2026-10-28"
-excerpt: "Discover how Doveleaf Laundry Consultants, led by Joe Mweri — The Laundry Guru, empowers investors, healthcare facilities, and hospitality brands across Kenya to build profitable, efficient, and sustainable laundry enterprises."
+dateModified: "2026-10-30"
+excerpt: "Discover how THE LAUNDRY GURU, a registered commercial laundry business consulting firm led by Joe Mweri, empowers investors, healthcare facilities, and hospitality brands across Kenya to build profitable, efficient, and sustainable laundry enterprises."
 coverImage: "/images/advisory/joe-mweri-speaking-solo.jpeg"
-author: "Doveleaf Laundry Consultants"
+author: "THE LAUNDRY GURU team"
 readingTime: "9 min read"
 ---
 
-**Doveleaf Laundry Consultants** is East Africa's premier commercial laundry and dry-cleaning advisory firm. For over 15 years, our lead expert, **Joe Mweri — The Laundry Guru**, has been at the forefront of transforming regional commercial laundry operations. We empower institutional investors, healthcare facilities, hospitality brands, and entrepreneurs to establish highly profitable, efficient, and sustainable laundry enterprises.
+**THE LAUNDRY GURU** is East Africa's premier commercial laundry and dry-cleaning business consulting firm. For over 15 years, our lead expert, **Joe Mweri — The Laundry Guru**, alongside his team of technical and operational specialists, has been at the forefront of transforming regional commercial laundry operations. We empower institutional investors, healthcare facilities, hospitality brands, and entrepreneurs to establish highly profitable, efficient, and sustainable laundry enterprises.
 
-Working parallel with our sister brand, **Doveleaf Drycleaners**, we bridge real-world operational mastery with strategic corporate consulting. Our firm is engineered around one core conviction:
+Our consulting practice is engineered around one core conviction:
 
 > *"Successful laundry businesses are not built by chance — they are engineered through informed investment, efficient systems, operational discipline, and a relentless pursuit of excellence."*
 > — **Joe Mweri, Lead Consultant**
@@ -21,7 +21,8 @@ Working parallel with our sister brand, **Doveleaf Drycleaners**, we bridge real
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   DOVELEAF LAUNDRY CONSULTANTS                         │
+│                          THE LAUNDRY GURU                              │
+│             Commercial Laundry Business Consulting Firm                │
 │                                                                        │
 │  VISION: To become Africa's most trusted authority in commercial       │
 │  laundry consultancy, setting the benchmark for operational            │
@@ -44,8 +45,8 @@ Working parallel with our sister brand, **Doveleaf Drycleaners**, we bridge real
 
 ## Corporate & Institutional Advisory Scope
 
-![Doveleaf Laundry Consultants executive leadership with enterprise delegates](/images/advisory/joe-mweri-industry-colleagues.jpeg)
-*Doveleaf Laundry Consultants collaborating with regional laundry operators and commercial partners at the East Africa Laundry Summit.*
+![THE LAUNDRY GURU executive leadership with enterprise delegates](/images/advisory/joe-mweri-industry-colleagues.jpeg)
+*THE LAUNDRY GURU consulting team collaborating with regional laundry operators and commercial partners at the East Africa Laundry Summit.*
 
 We partner with organizations across public and private sectors in East Africa to optimize high-volume linen and garment care:
 
@@ -139,24 +140,24 @@ Our methodologies have produced measurable operational transformations across Ea
 
 ---
 
-## Why Investors & Institutions Partner With Us
+## Why Investors & Institutions Partner With THE LAUNDRY GURU
 
 * **Capital Protection:** Transform ambitious concepts into highly profitable ventures through rigorously tested business models and market intelligence.
 * **Operational Turnarounds:** Revive underperforming laundry plants by eliminating workflow bottlenecks, wastage, and excessive utility overheads.
 * **Engineering Excellence:** Architect plant workflows that maximize daily linen throughput while drastically reducing water and energy costs.
-* **Proven Leadership:** Grounded in over 15 years of real-world operational mastery led by Joe Mweri, CEO of Doveleaf Drycleaners.
+* **Proven Leadership:** Grounded in over 15 years of real-world operational mastery led by Joe Mweri and a dedicated team of laundry specialists.
 
 ---
 
-### Connect With Doveleaf Laundry Consultants
+### Connect With THE LAUNDRY GURU
 
-Engage East Africa's leading commercial laundry advisory team to engineer your laundry operation for long-term profitability:
+Engage East Africa's leading commercial laundry advisory firm to engineer your laundry operation for long-term profitability:
 
+* **Consulting Firm:** THE LAUNDRY GURU
 * **Lead Consultant:** Joe Mweri — The Laundry Guru
 * **Primary Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
-* **Website:** [www.doveleaf.co.ke](https://www.doveleaf.co.ke)
-* **Headquarters:** Nairobi, Kenya (Lang'ata & Upper Hill)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
+* **Headquarters:** Nairobi, Kenya
 
 > **BUILD WITH CONFIDENCE. OPERATE WITH EXCELLENCE. GROW WITH PURPOSE.**

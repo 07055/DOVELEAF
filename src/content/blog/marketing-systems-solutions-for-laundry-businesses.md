@@ -4,7 +4,7 @@ date: "2026-10-24"
 dateModified: "2026-10-24"
 excerpt: "Discover how combining customer-facing social media marketing, local SEO, POS system installation, and Google Sheets business tracking helps laundry businesses build consistent visibility, organized records, and sustainable profit."
 coverImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop"
-author: "Doveleaf Business Support Services"
+author: "THE LAUNDRY GURU team"
 readingTime: "7 min read"
 ---
 
@@ -120,5 +120,5 @@ Ready to strengthen your online visibility and digitise your daily laundry opera
 
 * **Lead Consultant:** Joe Mweri
 * **Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke) | [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Locations:** Lang'ata & Upper Hill, Nairobi, Kenya

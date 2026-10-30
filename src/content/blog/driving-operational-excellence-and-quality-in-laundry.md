@@ -4,7 +4,7 @@ date: "2026-10-25"
 dateModified: "2026-10-25"
 excerpt: "Commercial laundry consultant Joe Mweri breaks down the operational blueprint for Kenyan commercial laundries — 11-stage SOP frameworks, productivity KPIs, process audits, cost reduction, and waste elimination strategies."
 coverImage: "/images/commercial corporate..jpeg"
-author: "Joe Mweri"
+author: "THE LAUNDRY GURU team"
 readingTime: "11 min read"
 ---
 
@@ -166,7 +166,7 @@ Operating a sustainable commercial laundry requires full compliance with Kenyan 
 
 ## The Solution: Operational Excellence Consulting Package
 
-**Doveleaf Laundry Consultants** delivers hands-on operational advisory for startups, expanding dry cleaners, and large commercial plants across Kenya:
+**THE LAUNDRY GURU** delivers hands-on operational advisory for startups, expanding dry cleaners, and large commercial plants across Kenya:
 
 * **SOP Development:** Customized, step-by-step procedure manuals, workstation job cards, and visual posters.
 * **Productivity & Workflow Optimization:** Plant layout evaluations, bottleneck removal, capacity balancing, and turnaround time acceleration.
@@ -188,7 +188,7 @@ He specializes in diagnosing operational inefficiencies, establishing robust man
 * **Lead Consultant:** Joe Mweri — Commercial Laundry Business Consultant
 * **Primary Email:** [joe@doveleaf.co.ke](mailto:joe@doveleaf.co.ke)
 * **Business Development:** [businessdevelopment@doveleaf.co.ke](mailto:businessdevelopment@doveleaf.co.ke)
-* **Phone / WhatsApp:** [+254 713 325 431](tel:+254713325431)
+* **Phone / WhatsApp:** [+254 713 325 431](https://wa.me/254713325431)
 * **Website:** [www.doveleaf.co.ke](https://www.doveleaf.co.ke)
 * **Offices:** Nairobi, Kenya (Lang'ata & Upper Hill)
 
